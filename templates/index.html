@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oracle Docs Scraper</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; background-color: #f8f9fa; }
+        h1 { color: #343a40; }
+        form { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        input[type="text"], input[type="url"] { width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box; }
+        button { background-color: #007bff; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; }
+        button:hover { background-color: #0056b3; }
+        button:disabled { background-color: #6c757d; cursor: not-allowed; }
+        #output { background: #212529; color: #f8f9fa; padding: 15px; border-radius: 4px; margin-top: 20px; white-space: pre-wrap; font-family: "SF Mono", "Menlo", "Monaco", "Consolas", "Courier New", monospace; height: 400px; overflow-y: auto; }
+    </style>
+</head>
+<body>
+    <h1>Oracle Documentation Scraper</h1>
+    <form id="scrape-form">
+        <label for="toc_url">Table of Contents URL:</label>
+        <input type="url" id="toc_url" name="toc_url" required placeholder="https://docs.oracle.com/.../toc.htm">
+        
+        <label for="output_file">Output Filename:</label>
+        <input type="text" id="output_file" name="output_file" required placeholder="my_scraped_docs.json">
+        
+        <button type="submit" id="submit-button">Start Scraping</button>
+    </form>
+
+    <div id="output">Scraping progress will appear here...</div>
+
+    <script>
+        document.getElementById('scrape-form').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            
+            const form = event.target;
+            const formData = new FormData(form);
+            const button = document.getElementById('submit-button');
+            const outputDiv = document.getElementById('output');
+
+            outputDiv.textContent = 'Initializing scraper...\n';
+            button.disabled = true;
+            button.textContent = 'Scraping...';
+
+            try {
+                const response = await fetch('/scrape', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) {
+                    outputDiv.textContent += `\nError: ${await response.text()}`;
+                    return;
+                }
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                outputDiv.textContent = ''; // Clear initial message
+
+                while (true) {
+                    const { value, done } = await reader.read();
+                    if (done) break;
+                    let chunk = decoder.decode(value, { stream: true });
+
+                    // Check for the download signal
+                    if (chunk.includes("DOWNLOAD_READY:")) {
+                        const parts = chunk.split("DOWNLOAD_READY:");
+                        outputDiv.textContent += parts[0]; // Display text before the signal
+                        const filename = parts[1].trim();
+                        outputDiv.textContent += `\n\nScraping complete! Your download will start automatically.`;
+                        window.location.href = `/download/${filename}`;
+                    } else {
+                        outputDiv.textContent += chunk;
+                    }
+
+                    outputDiv.scrollTop = outputDiv.scrollHeight; // Auto-scroll
+                }
+
+            } catch (error) {
+                outputDiv.textContent += `\nNetwork or server error: ${error}`;
+            } finally {
+                button.disabled = false;
+                button.textContent = 'Start Scraping';
+            }
+        });
+    </script>
+</body>
+</html>

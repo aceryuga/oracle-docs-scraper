@@ -1,0 +1,927 @@
+{
+    "session_summary": {
+        "toc_url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/toc.htm",
+        "start_time": "2025-06-12T08:15:13.875744",
+        "end_time": "2025-06-12T08:15:35.162434",
+        "total_pages_scraped": 20,
+        "total_words_extracted": 14758,
+        "failed_pages_count": 0
+    },
+    "failed_pages": [],
+    "scraped_content": [
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t63888.htm",
+            "title": "Revision History",
+            "content": "# Revision History\nThis document will continue to evolve as existing sections change and new information is added. All updates appear in the following table:\n\n| Date | Module | Feature | Notes |\n|---|---|---|---|\n| 19 MAY 2025 | Planning, Scheduling, and Forecasting | Project Change Order Summary Generation | Revised opt-in details |\n| 19 MAY 2025 | Planning, Scheduling, and Forecasting | Project Proposal Generation | Revised opt-in details |\n| 09 MAY 2025 | Planning, Scheduling, and Forecasting | Project Change Order Summary Generation | Revised opt-in details. |\n| 09 MAY 2025 | Planning, Scheduling, and Forecasting | Project Proposal Generation | Revised opt-in details. |\n| 09 MAY 2025 | Planning, Scheduling, and Forecasting | Change Order Automation for Financial Project Plan Amount Adjustments | Revised opt-in details. |\n| 07 MAR 2025 |  |  | Created initial document. |",
+            "tables": [
+                "| Date | Module | Feature | Notes |\n|---|---|---|---|\n| 19 MAY 2025 | Planning, Scheduling, and Forecasting | Project Change Order Summary Generation | Revised opt-in details |\n| 19 MAY 2025 | Planning, Scheduling, and Forecasting | Project Proposal Generation | Revised opt-in details |\n| 09 MAY 2025 | Planning, Scheduling, and Forecasting | Project Change Order Summary Generation | Revised opt-in details. |\n| 09 MAY 2025 | Planning, Scheduling, and Forecasting | Project Proposal Generation | Revised opt-in details. |\n| 09 MAY 2025 | Planning, Scheduling, and Forecasting | Change Order Automation for Financial Project Plan Amount Adjustments | Revised opt-in details. |\n| 07 MAR 2025 |  |  | Created initial document. |\n"
+            ],
+            "images": [],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/index.html#ppm25b-index"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64753.htm"
+                },
+                {
+                    "text": "Project Change Order Summary Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37020.htm#ppm25b-f37020"
+                },
+                {
+                    "text": "Project Proposal Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37023.htm#ppm25b-f37023"
+                },
+                {
+                    "text": "Project Change Order Summary Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37020.htm#ppm25b-f37020"
+                },
+                {
+                    "text": "Project Proposal Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37023.htm#ppm25b-f37023"
+                },
+                {
+                    "text": "Change Order Automation for Financial Project Plan Amount Adjustments",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37021.htm#ppm25b-f37021"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:14.065563"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64753.htm",
+            "title": "Overview",
+            "content": "# Overview\n\n### Have an idea?\nWe're here and we're listening. If you have a suggestion on how to make our cloud services even better then go ahead and tell us. There are several ways to submit your ideas, for example, through the Ideas Lab on Oracle Customer Connect. Wherever you see this icon before the feature name it means we delivered one of your ideas.\n\n### Give us feedback\nWe welcome your comments and suggestions to improve the content. Please send us your feedback atoracle_fusion_applications_help_ww_grp@oracle.com.\n\n### Disclaimer\nThe information contained in this document may include statements about Oracle's product development plans. Many factors can materially affect Oracle's product development plans and the nature and timing of future product releases. Accordingly, this Information is provided to you solely for information only, is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, and timing of any features or functionality described remains at the sole discretion of Oracle.\nThis information may not be incorporated into any contractual agreement with Oracle or its subsidiaries or affiliates. Oracle specifically disclaims any liability with respect to this information. Refer to the Legal Notices and Terms of Use for further information.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t63888.htm#ppm25b-t63888"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64509.htm"
+                },
+                {
+                    "text": "oracle_fusion_applications_help_ww_grp@oracle.com",
+                    "url": "mailto:oracle_fusion_applications_help_ww_grp@oracle.com"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:15.117192"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64509.htm",
+            "title": "Optional Uptake of New Features (Opt In)",
+            "content": "# Optional Uptake of New Features (Opt In)\nOracle Cloud Applications delivers new updates every quarter. This means every three months you'll receive new functionality to help you efficiently and effectively manage your business. Some features are delivered Enabled meaning they are immediately available to end users. Other features are delivered Disabled meaning you have to take action to make available. Features delivered Disabled can be activated for end users by stepping through the following instructions using the following privileges:\nReview Applications Offering (ASM_REVIEW_APPLICATIONS_OFFERINGS_PRIV)\nConfigure Oracle Fusion Applications Offering (ASM_CONFIGURE_OFFERING_PRIV)\nHereâs how you opt in to new features:\nClick Navigator > My Enterprise >New Features.\nOn the Features Overview page, select your offering to review new features specific to it. Or, you can leave the default selectionAll Enabled Offeringsto review new features for all offerings.\nOn the New Features tab, review the new features and check the opt-in status of the feature in theEnabledcolumn. If a feature has already been enabled, you will see a check mark. Otherwise, you will see an icon to enable the feature.\nClick the icon in theEnabledcolumn and complete the steps to enable the feature.\nIn some cases, you might want to opt in to a feature that's not listed in the New Features work area. Here's how to opt in:\nClick Navigator > My Enterprise >Offerings.\nOn the Offerings page, select your offering, and then clickOpt In Features.\nOn the Opt In page, click theEdit Features(pencil) icon for the offering, or for the functional area that includes your feature.\nOn the Edit Features page, complete the steps to enable the feature.\nFor more information and detailed instructions on opting in to new features for your offering, seeConfigure Offerings.\nOpt In Expiration\nOccasionally, features delivered Disabled via Opt In may be enabled automatically in a future update. This is known as an Opt In Expiration. If your cloud service has any Opt In Expirations you will see a related tab in this document. Click on that tab to see when the feature was originally delivered Disabled, and when the Opt In will expire, potentially automatically enabling the feature. You can alsoclick hereto see features with Opt In Expirations across all Oracle Cloud Applications.",
+            "tables": [],
+            "images": [],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64753.htm#ppm25b-t64753"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64754.htm"
+                },
+                {
+                    "text": "Configure Offerings",
+                    "url": "https://docs.oracle.com/pls/topic/lookup?ctx=fa-latest&id=s20058272"
+                },
+                {
+                    "text": "click here",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/optin.htm"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:16.172889"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64754.htm",
+            "title": "Feature Summary",
+            "content": "# Feature Summary\nLarger scale:These features have a higher potential impact on users due to their complex designs. Focus your acceptance testing on these features.\nSmall scale:These features have minimal impact on users and typically involve minor changes to fields, validations, or programs.\nReport:These features have minimal impact on users and include new or modified, Oracle-delivered, ready-to-run reports.\nNone:These features are not delivered enabled. These features will need steps to use. You can choose if and when to enable them.\nDownloadfeature summary table.\n\n| Module | Feature | Delivered Enabled | Impact to Existing Processes | Action to Enable |\n|---|---|---|---|---|\n| Billing and Revenue Management | Classify Contract Key Terms | No | None | Opt In |\n| Billing and Revenue Management | Creation of Nonlabor Project Contract Invoice Lines by Person | No | None | Setup Required |\n| Billing and Revenue Management | Extract Key Terms from Contract Documents Using Generative AI | No | None | Opt In plus Setup |\n| Billing and Revenue Management | Redwood User Experience for Managing Unbilled Transactions | No | None | Opt In plus Setup |\n| Billing and Revenue Management | View Contract Owners in Contract Search Results | Yes | Small scale | None |\n| Cost Management and Control | Payroll Cost Distribution to Projects Using Time Cards | Yes | Larger scale | None |\n| Grant Management | Prepayment Transaction Type Selection When Submitting Awards | Yes | Small scale | None |\n| Grant Management | Sponsored Project Cost Distribution Using Available Award Funding | Yes | Larger scale | None |\n| Planning, Scheduling, and Forecasting | Change Order Automation for Financial Project Plan Amount Adjustments | No | None | Opt In plus Setup |\n| Planning, Scheduling, and Forecasting | Project Change Order Summary Generation | No | None | Opt In |\n| Planning, Scheduling, and Forecasting | Project Proposal Generation | No | None | Opt In |\n| Planning, Scheduling, and Forecasting | Financial Project Progress Reporting for Resources in OTBI | Yes | Report | None |\n| Planning, Scheduling, and Forecasting | Project Notes in Project-Related OTBI Subject Areas | Yes | Small scale | None |\n| Project Management Common | Service Excellence Continuing Investments for Project Management | No | None | Setup Required |\n| Resource Management | Variable Weekly Schedules for Project Resource Assignments | Yes | Small scale | None |",
+            "tables": [
+                "| Module | Feature | Delivered Enabled | Impact to Existing Processes | Action to Enable |\n|---|---|---|---|---|\n| Billing and Revenue Management | Classify Contract Key Terms | No | None | Opt In |\n| Billing and Revenue Management | Creation of Nonlabor Project Contract Invoice Lines by Person | No | None | Setup Required |\n| Billing and Revenue Management | Extract Key Terms from Contract Documents Using Generative AI | No | None | Opt In plus Setup |\n| Billing and Revenue Management | Redwood User Experience for Managing Unbilled Transactions | No | None | Opt In plus Setup |\n| Billing and Revenue Management | View Contract Owners in Contract Search Results | Yes | Small scale | None |\n| Cost Management and Control | Payroll Cost Distribution to Projects Using Time Cards | Yes | Larger scale | None |\n| Grant Management | Prepayment Transaction Type Selection When Submitting Awards | Yes | Small scale | None |\n| Grant Management | Sponsored Project Cost Distribution Using Available Award Funding | Yes | Larger scale | None |\n| Planning, Scheduling, and Forecasting | Change Order Automation for Financial Project Plan Amount Adjustments | No | None | Opt In plus Setup |\n| Planning, Scheduling, and Forecasting | Project Change Order Summary Generation | No | None | Opt In |\n| Planning, Scheduling, and Forecasting | Project Proposal Generation | No | None | Opt In |\n| Planning, Scheduling, and Forecasting | Financial Project Progress Reporting for Resources in OTBI | Yes | Report | None |\n| Planning, Scheduling, and Forecasting | Project Notes in Project-Related OTBI Subject Areas | Yes | Small scale | None |\n| Project Management Common | Service Excellence Continuing Investments for Project Management | No | None | Setup Required |\n| Resource Management | Variable Weekly Schedules for Project Resource Assignments | Yes | Small scale | None |\n"
+            ],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64509.htm#ppm25b-t64509"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37570.htm"
+                },
+                {
+                    "text": "Download",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/FeatureSummary.xlsx"
+                },
+                {
+                    "text": "Classify Contract Key Terms",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f36523.htm#ppm25b-f36523"
+                },
+                {
+                    "text": "Creation of Nonlabor Project Contract Invoice Lines by Person",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37015.htm#ppm25b-f37015"
+                },
+                {
+                    "text": "Extract Key Terms from Contract Documents Using Generative AI",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35275.htm#ppm25b-f35275"
+                },
+                {
+                    "text": "Redwood User Experience for Managing Unbilled Transactions",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37016.htm#ppm25b-f37016"
+                },
+                {
+                    "text": "View Contract Owners in Contract Search Results",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35865.htm#ppm25b-f35865"
+                },
+                {
+                    "text": "Payroll Cost Distribution to Projects Using Time Cards",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37014.htm#ppm25b-f37014"
+                },
+                {
+                    "text": "Prepayment Transaction Type Selection When Submitting Awards",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37019.htm#ppm25b-f37019"
+                },
+                {
+                    "text": "Sponsored Project Cost Distribution Using Available Award Funding",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37018.htm#ppm25b-f37018"
+                },
+                {
+                    "text": "Change Order Automation for Financial Project Plan Amount Adjustments",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37021.htm#ppm25b-f37021"
+                },
+                {
+                    "text": "Project Change Order Summary Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37020.htm#ppm25b-f37020"
+                },
+                {
+                    "text": "Project Proposal Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37023.htm#ppm25b-f37023"
+                },
+                {
+                    "text": "Financial Project Progress Reporting for Resources in OTBI",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37017.htm#ppm25b-f37017"
+                },
+                {
+                    "text": "Project Notes in Project-Related OTBI Subject Areas",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37024.htm#ppm25b-f37024"
+                },
+                {
+                    "text": "Service Excellence Continuing Investments for Project Management",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37570.htm#ppm25b-f37570"
+                },
+                {
+                    "text": "Variable Weekly Schedules for Project Resource Assignments",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37022.htm#ppm25b-f37022"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:17.231535"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37570.htm",
+            "title": "Service Excellence Continuing Investments for Project Management",
+            "content": "# Service Excellence Continuing Investments for Project Management\nIn this update, improvements are available in the following areas:\n\nPROJECT MANAGEMENT COMMONSearch, Display, and Default Dates Using the User's Preferred Time Zone:Dates are displayed and defaulted using the user preferred time zone in various project management user interfaces.Improvements include:Defaulting of the effective start date based on the user's preferred time zone in configuration pages that previously defaulted using the universal time zone.Searching for projects, project resources, and team members in the Project Financial Management work area will now consider the user's preferred time zone.Submitting project budgets and forecasts will now utilize the user's preferred time zone to ensure that an active project manager is assigned to the project.Progress capture in the Financial Project Plan will now default to the date based on the user's preferred time zone.About this Record data added to various pages with dates displaying in the user's preferred time zone.\nSearch, Display, and Default Dates Using the User's Preferred Time Zone:Dates are displayed and defaulted using the user preferred time zone in various project management user interfaces.Improvements include:Defaulting of the effective start date based on the user's preferred time zone in configuration pages that previously defaulted using the universal time zone.Searching for projects, project resources, and team members in the Project Financial Management work area will now consider the user's preferred time zone.Submitting project budgets and forecasts will now utilize the user's preferred time zone to ensure that an active project manager is assigned to the project.Progress capture in the Financial Project Plan will now default to the date based on the user's preferred time zone.About this Record data added to various pages with dates displaying in the user's preferred time zone.\nImprovements include:Defaulting of the effective start date based on the user's preferred time zone in configuration pages that previously defaulted using the universal time zone.Searching for projects, project resources, and team members in the Project Financial Management work area will now consider the user's preferred time zone.Submitting project budgets and forecasts will now utilize the user's preferred time zone to ensure that an active project manager is assigned to the project.Progress capture in the Financial Project Plan will now default to the date based on the user's preferred time zone.About this Record data added to various pages with dates displaying in the user's preferred time zone.\nDefaulting of the effective start date based on the user's preferred time zone in configuration pages that previously defaulted using the universal time zone.\nSearching for projects, project resources, and team members in the Project Financial Management work area will now consider the user's preferred time zone.\nSubmitting project budgets and forecasts will now utilize the user's preferred time zone to ensure that an active project manager is assigned to the project.\nProgress capture in the Financial Project Plan will now default to the date based on the user's preferred time zone.\nAbout this Record data added to various pages with dates displaying in the user's preferred time zone.\nBILLING AND REVENUE MANAGEMENTProject Contract Invoices Unreleased in Any Order Using a REST API: Use the Project Contract Invoices REST API to unrelease invoices in any order, irrespective of whether they are the latest invoices for their respective project contracts. Once invoices have been unreleased, they can then be deleted if no longer needed. This prevents unwanted standard invoices or credit memos from being transferred to Receivables, reducing the number of undesirable credits and rebills.\nProject Contract Invoices Unreleased in Any Order Using a REST API: Use the Project Contract Invoices REST API to unrelease invoices in any order, irrespective of whether they are the latest invoices for their respective project contracts. Once invoices have been unreleased, they can then be deleted if no longer needed. This prevents unwanted standard invoices or credit memos from being transferred to Receivables, reducing the number of undesirable credits and rebills.\nTo unrelease an invoice in any order for a project contract, you need to enable the predefined profile optionAllow Invoice Processing in Any Sequenceusing the Manage Administrator Profile Values setup page, as highlighted below. Also, you can't unrelease an invoice in any order when the transactions associated with the invoice being unreleased have been invoiced subsequently on different invoices of the project contract.\n\nManage Administrator Profile Values\n\nCanceled Invoice in 'Transfer Rejected' Status\n\nAfter Deletion of Canceled Invoice\nPROGRAM MANAGEMENT AND REPORTINGStreamline Program Financial Management with ITD Actual Invoice Amount: Access even more detailed financial data for your programs with the newITD Actual Invoice Amount. This enhancement is now available in both the Project Program Insights REST API and the Program Analysis user interface. Combined with the previously released Amount to Bill and Unpaid Invoice Amount metrics, you can now leverage a powerful suite of financial data to optimize program performance. Based on Idea801478from the Project Management Idea Labs on Oracle Cloud Customer Connect.To access theITD Actual Invoice Amountmeasure in the Program Analysis page for existing users, the administrator must run the Update Project Performance Data process with the value $$RESET_PROGRAM_DEFAULT_PREFERENCE$$ in the From Project Number and To Project Number fields.Enhanced Project Program Analysis and Action Plan Generation: Drive program success with the latest AI enhancements. You now get even more granular insights, including key operational metrics, empowering you to make data-driven decisions faster. Creating action plans is also streamlined with autopopulated action item summaries.Requires prior opt-in to the 25AProject Program Analysis and Action Plan Generationfeature.\nStreamline Program Financial Management with ITD Actual Invoice Amount: Access even more detailed financial data for your programs with the newITD Actual Invoice Amount. This enhancement is now available in both the Project Program Insights REST API and the Program Analysis user interface. Combined with the previously released Amount to Bill and Unpaid Invoice Amount metrics, you can now leverage a powerful suite of financial data to optimize program performance. Based on Idea801478from the Project Management Idea Labs on Oracle Cloud Customer Connect.To access theITD Actual Invoice Amountmeasure in the Program Analysis page for existing users, the administrator must run the Update Project Performance Data process with the value $$RESET_PROGRAM_DEFAULT_PREFERENCE$$ in the From Project Number and To Project Number fields.\nTo access theITD Actual Invoice Amountmeasure in the Program Analysis page for existing users, the administrator must run the Update Project Performance Data process with the value $$RESET_PROGRAM_DEFAULT_PREFERENCE$$ in the From Project Number and To Project Number fields.\nEnhanced Project Program Analysis and Action Plan Generation: Drive program success with the latest AI enhancements. You now get even more granular insights, including key operational metrics, empowering you to make data-driven decisions faster. Creating action plans is also streamlined with autopopulated action item summaries.Requires prior opt-in to the 25AProject Program Analysis and Action Plan Generationfeature.\nRequires prior opt-in to the 25AProject Program Analysis and Action Plan Generationfeature.\n\n\n### Steps to Enable\n\nSee steps to enable under the individual features, above.\n\n\n### Key Resources\n\nRelated Help:FeatureProject Program Analysis and Action Plan Generationin the What's New for update 25A.FeatureProject Program Status Summary Generationin the What's New for update 24D.FeatureGraphical Program Headlines with Project Performance Trends and Insightsin the What's New for update 23C.FeatureProgram Action Plans and Issuesin the What's New for update 23A.\nFeatureProject Program Analysis and Action Plan Generationin the What's New for update 25A.\nFeatureProject Program Status Summary Generationin the What's New for update 24D.\nFeatureGraphical Program Headlines with Project Performance Trends and Insightsin the What's New for update 23C.\nFeatureProgram Action Plans and Issuesin the What's New for update 23A.\n\n\n### Access Requirements\n\nNo new access requirements.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37570_1.png",
+                    "alt": "Manage Administrator Profile Values"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37570_2.png",
+                    "alt": "Canceled Invoice in 'Transfer Rejected' Status"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37570_3.png",
+                    "alt": "After Deletion of Canceled Invoice"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64754.htm#ppm25b-t64754"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37015.htm"
+                },
+                {
+                    "text": "801478",
+                    "url": "https://community.oracle.com/customerconnect/discussion/801478/"
+                },
+                {
+                    "text": "Project Program Analysis and Action Plan Generation",
+                    "url": "http://docs.oracle.com/en/cloud/saas/readiness/erp/25a/ppm25a/25A-ppm-wn-f35786.htm"
+                },
+                {
+                    "text": "Project Program Analysis and Action Plan Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25a/ppm25a/25A-ppm-wn-f35786.htm"
+                },
+                {
+                    "text": "Project Program Status Summary Generation",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/24d/ppm24d/24D-ppm-wn-f34618.htm#ppm24d-f34618"
+                },
+                {
+                    "text": "Graphical Program Headlines with Project Performance Trends and Insights",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23C/23C-ppm-wn.htm#T48847"
+                },
+                {
+                    "text": "Program Action Plans and Issues",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23A/23A-ppm-wn.htm#F26160"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:18.297548"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37015.htm",
+            "title": "Creation of Nonlabor Project Contract Invoice Lines by Person",
+            "content": "# Creation of Nonlabor Project Contract Invoice Lines by Person\nConfigure nonlabor invoice formats to group project cost transactions by person name, enabling easy creation of invoices with separate project contract invoice lines for time and expenses by person.\nThe invoice line grouping attributes listed below are added to the invoice format of type Nonlabor:\nAll\nContract Line Project/Task, All\nContract Line Project/Task, Expenditure Category\nContract Line Project/Task, Expenditure Type\nContract Line Project/Task, Revenue Category, Expenditure Category, Expenditure Type\nContract Line Project/Task, Work Site, All\nContract Line Project/Task, Work Site, Expenditure Category\nContract Line Project/Task, Work Site, Expenditure Type\nContract Line Project/Task, Work Site, Revenue Category, Expenditure Category, Expenditure Type\nContract Line, All\nContract Line, Contract Line Project/Task, All\nContract Line, Contract Line Project/Task, Expenditure Category\nContract Line, Contract Line Project/Task, Expenditure Type\nContract Line, Contract Line Project/Task, Revenue Category, Expenditure Category, Expenditure Type\nContract Line, Expenditure Category\nContract Line, Expenditure Type\nContract Line, Revenue Category, Expenditure Category, Expenditure Type\nExpenditure Category\nExpenditure Type\nRevenue Category, Expenditure Category, Expenditure Type\nWork Site, All\nWork Site, Expenditure Category\nWork Site, Expenditure Type\nWork Site, Revenue Category, Expenditure Category, Expenditure Type\nPerson First Name\nPerson Last Name\nPerson Full Name\nExpenditure Type Class\nIf person attributes such as first name, last name or full name are included in a nonlabor invoice format without also grouping by expenditure type or expenditure type class attributes, then expense reports, usages, and miscellaneous project cost transactions with the same person details will be grouped together into the same invoice line, as highlighted in the screenshot below:\n\nNonlabor Invoice Line Grouping by Person Full Name\nConversely, by also including expenditure type or the new expenditure type class attribute into the nonlabor invoice format, expense reports, usages, and miscellaneous project cost transactions will be separated, as highlighted in the screenshot below:\n\nNonlabor Invoice Line Grouping by Person Full Name and Expenditure Type Class\nThe grouping of expense reports, usages, and miscellaneous project cost transactions onto credit memo, concession, write-off, or canceled invoice lines by person attribute or expenditure type class is also based on the nonlabor invoice format setup.\n\nThis feature simplifies and streamlines the review of nonlabor project contract invoice lines by grouping expenses by person. It makes it easier for both clients and internal project teams to quickly verify and approve invoices, reducing review time and minimizing errors or disputes.\n\n\n### Steps to Enable\n\nModify existing nonlabor invoice formats to add these new attributes, or create new nonlabor invoice formats (as demonstrated in the screenshot below) and associate them with existing or new bill plans:\n\nManage Invoice Formats\n\n\n### Key Resources\n\nBased on Idea500834from the Project Management Idea Labs on Oracle Cloud Customer Connect.\n\n\n### Access Requirements\n\nNo new access requirements.\n\n\n| Grouping Options | Invoice Line Grouping Attributes |\n|---|---|\n| AllContract Line Project/Task, AllContract Line Project/Task, Expenditure CategoryContract Line Project/Task, Expenditure TypeContract Line Project/Task, Revenue Category, Expenditure Category, Expenditure TypeContract Line Project/Task, Work Site, AllContract Line Project/Task, Work Site, Expenditure CategoryContract Line Project/Task, Work Site, Expenditure TypeContract Line Project/Task, Work Site, Revenue Category, Expenditure Category, Expenditure TypeContract Line, AllContract Line, Contract Line Project/Task, AllContract Line, Contract Line Project/Task, Expenditure CategoryContract Line, Contract Line Project/Task, Expenditure TypeContract Line, Contract Line Project/Task, Revenue Category, Expenditure Category, Expenditure TypeContract Line, Expenditure CategoryContract Line, Expenditure TypeContract Line, Revenue Category, Expenditure Category, Expenditure TypeExpenditure CategoryExpenditure TypeRevenue Category, Expenditure Category, Expenditure TypeWork Site, AllWork Site, Expenditure CategoryWork Site, Expenditure TypeWork Site, Revenue Category, Expenditure Category, Expenditure Type | Person First NamePerson Last NamePerson Full NameExpenditure Type Class |",
+            "tables": [
+                "| Grouping Options | Invoice Line Grouping Attributes |\n|---|---|\n| AllContract Line Project/Task, AllContract Line Project/Task, Expenditure CategoryContract Line Project/Task, Expenditure TypeContract Line Project/Task, Revenue Category, Expenditure Category, Expenditure TypeContract Line Project/Task, Work Site, AllContract Line Project/Task, Work Site, Expenditure CategoryContract Line Project/Task, Work Site, Expenditure TypeContract Line Project/Task, Work Site, Revenue Category, Expenditure Category, Expenditure TypeContract Line, AllContract Line, Contract Line Project/Task, AllContract Line, Contract Line Project/Task, Expenditure CategoryContract Line, Contract Line Project/Task, Expenditure TypeContract Line, Contract Line Project/Task, Revenue Category, Expenditure Category, Expenditure TypeContract Line, Expenditure CategoryContract Line, Expenditure TypeContract Line, Revenue Category, Expenditure Category, Expenditure TypeExpenditure CategoryExpenditure TypeRevenue Category, Expenditure Category, Expenditure TypeWork Site, AllWork Site, Expenditure CategoryWork Site, Expenditure TypeWork Site, Revenue Category, Expenditure Category, Expenditure Type | Person First NamePerson Last NamePerson Full NameExpenditure Type Class |\n"
+            ],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37015_1.png",
+                    "alt": "Nonlabor Invoice Line Grouping by Person Full Name"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37015_2.png",
+                    "alt": "Nonlabor Invoice Line Grouping by Person Full Name and Expenditure Type Class"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37015_3.png",
+                    "alt": "Nonlabor invoice format"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37570.htm#ppm25b-f37570"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37016.htm"
+                },
+                {
+                    "text": "500834",
+                    "url": "https://community.oracle.com/customerconnect/discussion/500834/grouping-option-of-non-labor-expenses-based-on-resources-on-invoice-lines-in-project-billing"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:19.364242"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37016.htm",
+            "title": "Redwood User Experience for Managing Unbilled Transactions",
+            "content": "# Redwood User Experience for Managing Unbilled Transactions\nContinuously manage unbilled transactions using a next-generation Redwood user experience, alleviating time pressures at billing period end, improving invoice accuracy and reducing the number of credit rebills.\n\nA screenshot showing the Bill Transactions page. The search, currency toggle, and data grid features are highlighted.\n\nThe Bill Transactions page with status badge, status reason, and change status action control highlighted.\n\nThe Bill Transactions page with a change status action in progress.\n\nA single Bill Transaction opened to show more details.\nIn this first release, users can experience:\nSmart Search, a quick way to find the transactions they're interested in. Filter transactions by:ProjectTransaction Date RangeTransaction TypeTransaction Number (using keyword search)StatusStatus Reason\nProject\nTransaction Date Range\nTransaction Type\nTransaction Number (using keyword search)\nStatus\nStatus Reason\nData Grid, a familiar spreadsheet-like UI for managing transactions, maximizing screen real estate.Drag and drop columnsHide columnsResize columns to fit data or headingsSort columns(currently only the Transaction Date column is enabled for sorting)\nDrag and drop columns\nHide columns\nResize columns to fit data or headings\nSort columns(currently only the Transaction Date column is enabled for sorting)\nSelection-basedactions, including the ability to change a bill transaction:Status(between Ready, On hold and Nonbillable)Bill quantityUnit priceAmount to bill\nStatus(between Ready, On hold and Nonbillable)\nBill quantity\nUnit price\nAmount to bill\nLet's explore this user experience through two user stories:\nAmy Watkins, Project Manager\nAmy manages 5 projects at the Vision Operations organization. It's the second week of the month, and Amy wants to review the last two week's of unbilled labor transactions on one of her projects with the client.\nAmy navigates to the Project Management work area, selects the desired project from the My Projects list, and then selects the new Manage Bill Transactions link from the task drawer. The Bill Transactions page opens showing transactions for which Amy has data access, with a filter applied for the project that was selected in the My Projects page.The Bill Transactions page is also available to Amy's Project Administrators who work in the PMO. The Manage Bill Transactions link is accessed from the task drawer of the Project Financial Management work area.\nThe Bill Transactions page is also available to Amy's Project Administrators who work in the PMO. The Manage Bill Transactions link is accessed from the task drawer of the Project Financial Management work area.\nAmy can refine her search criteria to address her specific business questions:Add a filter on transaction type to restrict to labor transactions.Add a filter on transaction date range to restrict transactions to the last two weeks.Add a filter on status to only show transactions that are unbilled.\nAdd a filter on transaction type to restrict to labor transactions.\nAdd a filter on transaction date range to restrict transactions to the last two weeks.\nAdd a filter on status to only show transactions that are unbilled.\nDuring the review with the client, a potential issue is spotted with the number of hours booked by a project team member on a specific date (12 hours were booked, but Amy and the client were expecting 8 hours). To ensure these transactions are not billed yet, Amy selects the transactions and changes their status to \"On hold\", choosing an appropriate action reason (\"Client query\") from the configurable list. Amy creates a browser bookmark for the page, which includes her search criteria, so that she can come back to this context later if needed.\nAmy discusses the issue with the project team member, who confirms that they did work 12 hours to complete a task, which was more than the planned amount agreed with the client. Amy now has four options:Inform the client of the overrun to gauge appetite for payment. Or,Ask the team member to change their time card to 8 hours. This is not ideal as it means that effort versus plan reporting will be skewed, as will the project cost. Or,Split the project cost into billable (8 hours) and nonbillable (4 hours) transactions. This will result in an additional bill transaction being created. Or,(New in this release) Liaise with the Project Billing Specialist to amend the bill quantity for this transaction to 8 hours in the Bill Transactions page. This change does not affect the effort recorded on the project cost transaction. Subject to privilege, Project Managers can also perform this action if desirable, refer to the Access Requirements section.\nInform the client of the overrun to gauge appetite for payment. Or,\nAsk the team member to change their time card to 8 hours. This is not ideal as it means that effort versus plan reporting will be skewed, as will the project cost. Or,\nSplit the project cost into billable (8 hours) and nonbillable (4 hours) transactions. This will result in an additional bill transaction being created. Or,\n(New in this release) Liaise with the Project Billing Specialist to amend the bill quantity for this transaction to 8 hours in the Bill Transactions page. This change does not affect the effort recorded on the project cost transaction. Subject to privilege, Project Managers can also perform this action if desirable, refer to the Access Requirements section.\nAmy decides that option 4 is the best way to remediate the issue. Once the Project Billing Specialist has made the change, Amy updates the status of the bill transaction back to \"Ready\" (to bill), choosing an appropriate action reason (\"PM reviewed\") from the configurable list of values.\nBen Simmons, Project Billing Specialist\nBen is responsible for the smooth operation of the project billing process within the Vision Operations organization. Ben services the billing needs of 100 project managers, each managing anywhere from 1 to 10 billable projects at a time.\nA project manager informs Ben that the monthly unbilled fee amount for a number of projects doesn't look right. Fees have been added to each project for 1,000 USD, but they should have been 1,500 USD. The projects are all for the same client, and project numbering has been configured such that projects for the same client start with the same code, \"HILMAN\".\nBen navigates to the Contract Management > Invoices work area, and selects the new Manage Bill Transactions link from the task drawer. The Bill Transactions page opens showing the bill transactions for which Ben has data access.\nBen uses the reduction list of the Project filter chip to filter all projects starting with \"HILMAN\". Ben applies additional filters as needed:Adds a filter on transaction type to restrict to fee transactions.Adds a filter on transaction date range to restrict transactions to the current month.Adds a filter on status to only show transactions that are unbilled.\nAdds a filter on transaction type to restrict to fee transactions.\nAdds a filter on transaction date range to restrict transactions to the current month.\nAdds a filter on status to only show transactions that are unbilled.\nBen sees 20 fee transactions that have an amount to bill of 1,000 USD. Ben selects the transactions, and takes an action to change the amount to bill to 1,500 USD as instructed. A message is displayed informing Ben that the action has been completed successfully, and the changes are automatically synchronized to the associated billing events.\nBen is able to take similar actions to change the unit price and bill quantity of transactions that are priced on a quantity-basis.\n\nThe key business benefits of this feature are:\nAlleviate time pressures at billing period end by continuously reviewing and adjusting unbilled transactions, without needing to generate invoices prematurely.\nProvides an alternate approach to quickly rectify missing rate exceptions, without having to go back to the contract or rate source.\n\n\n### Steps to Enable\n\nUse the Opt In UI to enable this feature. For instructions, refer to the Optional Uptake of New Features section of this document.\nOffering:Project Financial ManagementâNo Longer Optional From:Update 25D\nAdditional steps:\nEnabling this feature is dependent on enabling the previously releasedBill Transaction Creation on Cost Importfeature. Please review the Release Readiness materials for that feature in full, as it does bring about some important changes to application behavior.\nWhen a user performs a status change action they can optionally provide a reason for the change. These \"action reasons\" are configured using the Manage Standard Lookups task in Setup and Maintenance, with one lookup type per bill transaction status:Lookup type code: ORA_PJB_BT_ACTION_STS_HOLD, Lookup meaning: Reason for changing bill transaction status to on holdLookup type code: ORA_PJB_BT_ACTION_STS_NONBIL, Lookup meaning: Reason for changing bill transaction status to nonbillableLookup type code: ORA_PJB_BT_ACTION_STS_READY, Lookup meaning: Reason for changing bill transaction status to ready\nLookup type code: ORA_PJB_BT_ACTION_STS_HOLD, Lookup meaning: Reason for changing bill transaction status to on hold\nLookup type code: ORA_PJB_BT_ACTION_STS_NONBIL, Lookup meaning: Reason for changing bill transaction status to nonbillable\nLookup type code: ORA_PJB_BT_ACTION_STS_READY, Lookup meaning: Reason for changing bill transaction status to ready\nThe existing profile option Unit of Measure for Invoice Lines Sent to Oracle Fusion Receivables (PJB_AR_INVOICE_UOM) must be configured as it is used as the default for bill transactions with amount-based pricing. Refer to the Important Concepts section under Tips & Considerations for more details.\nThe seeded data security policies controlling access to bill transactions for project managers rely on the user's project role being mapped to their job role (also known as enterprise role) in the Manage Project Roles task in Setup and Maintenance. This is not a change in this release, rather a reminder from the previously releasedBill Transaction and Exception Analysis Using Oracle Transactional Business Intelligence (23B)feature.\n\n\n### Tips And Considerations\n\nImportant Concepts\nThe following concepts are important in understanding how the Bill Transactions page works, but also how the Bill Transaction business object has been shaped to standardize and simplify the user experience, to better support customer's needs:\nThe Bill Transactions page enables users to manage bill transactions that are applicable to external invoicing. The page is not designed to manage revenue-only transactions, or bill transactions related to intercompany or interproject billing.\nThe amount to bill of a bill transaction can always be expressed as a product of the bill quantity and unit price (rate). This rule applies irrespective of how the bill transaction was priced, for example, whether a bill rate was used, or a markup.\nTo support the above, the concept of a \"pricing type\" has been introduced (not currently visible in the UI), which governs whether users can perform actions to change the bill quantity, unit price, or the amount to bill. There are two pricing types currently supported:Quantity-based: The amount to bill is calculated by applying a unit price to a recorded quantity, denominated in a meaningful unit of measure. Examples include a bill transaction priced using a rate schedule with a bill rate, or an item-based billing event. Privileged users can change the quantity and/or the unit price of transactions with this pricing type.Amount-based: The amount to bill is either recorded directly, or a currency amount is attenuated by a multiplier or percentage. A recorded quantity is not used in the calculation of the amount to bill. Examples include a bill transaction priced using a rate schedule with a markup, or a non-item based billing event. Transactions priced on an amount basis have a quantity of \"1\", a default unit of measure (see Steps to Enable section), and the unit price is equal to the amount to bill. Privileged users can change the amount to bill of transactions with this pricing type, but not the quantity or unit price.\nQuantity-based: The amount to bill is calculated by applying a unit price to a recorded quantity, denominated in a meaningful unit of measure. Examples include a bill transaction priced using a rate schedule with a bill rate, or an item-based billing event. Privileged users can change the quantity and/or the unit price of transactions with this pricing type.\nAmount-based: The amount to bill is either recorded directly, or a currency amount is attenuated by a multiplier or percentage. A recorded quantity is not used in the calculation of the amount to bill. Examples include a bill transaction priced using a rate schedule with a markup, or a non-item based billing event. Transactions priced on an amount basis have a quantity of \"1\", a default unit of measure (see Steps to Enable section), and the unit price is equal to the amount to bill. Privileged users can change the amount to bill of transactions with this pricing type, but not the quantity or unit price.\nWhen a user changes the status of a bill transaction, behind the scenes these changes are synchronized with the source transactions (project costs or billing events) for backwards compatibility. The same applies to changes of the bill quantity or amount for bill transactions associated with billing events; the changes are synchronized back to the billing events. Conversely, changes to the bill transaction quantity are not synchronized back to project cost transactions. The reason being, cost quantity and bill quantity are considered as first class measurements on each respective business object, to give customers maximum flexibility. So whilst one may influence the other (for example, the cost quantity being used as the default for bill quantity), the two are not systematically locked together.\nRedwood pages typically use the same REST APIs that we make available to customers to build integrated or automation solutions. Therefore, actions to change a bill transaction status, quantity, unit price, and amount to bill are also available using REST API.\nFAQs\nCan I create browser bookmarks for the page?\nYes. Browser bookmarks are fully supported, and they include the current bill transaction search criteria. The URL structure can also be used for linking from other applications, such as OTBI. Here's an example of the page URL with all of the currently supported filters included:\nhttps://{{yourfusionurl.com}}/fscmUI/redwood/project-billing/bill-transactions/manage?billing_status=READY%7CON_HOLD&keywords=100106415011830&project_id=300100628624901&status_reason=PM_REVIEW_READY&transaction_date=2023-06-01%7C2024-08-31&transaction_type=10001\nCan I use the browser refresh button?\nYes, and search criteria are preserved through the URL. You can use browser refresh after taking an action to refresh data on the page.\nWhat's the symbol next to some currency amounts?\nIf the Invoice Currency or Contract Currency are different to the Transaction Currency, then currency conversion takes place (according to contract and application setups). If a displayed amount is the product of currency conversion, an icon next to the amount indicates that this has happened.\n\nThe Bill Transactions page showing the currency switcher and currency conversion indicator\nHow do I search on Transaction Number?\nYou do this using keyword search. Simply type the transaction number into the Smart Search box and hit return. Currently only the Transaction Number attribute is enabled for keyword search.\n\nThe Bill Transaction page showing a keyword search on Transaction Number.\nData Upgrade\nThe bill transaction business object has been taking shape over the last year or so. During this time we have added new properties to the business object, such as status, status reason and pricing type. Therefore, these properties will be blank (null) for historic transactions. Given that unbilled transactions typically have a relatively short lifecycle (where many customers bill monthly in arrears), this may not present an issue. Also, given that managing bill transactions is a new business process, it may also be beneficial to introduce the use of this UI for new projects only.\nHowever, if it is important to your business to query and manage historic bill transactions, then we have provided a facility for you to upgrade data. Please note that this is an irreversible process, so please ensure to run this in a non-production environment and reconcile the results. In order to run the data upgrade you must have opted in to theBill Transaction Creation on Cost Importfeature. You then need to run the Generate Invoices process with the following parameters:\nCreate Billing Transactions:No\nCreate Billing Transactions:No\nCreate Invoice:No\nCreate Invoice:No\nBilling Type:External\nSome FAQs on the data upgrade process:\nWhich parameters of the Generate Invoice process are honored when running in data upgrade mode?\nBusiness Unit, Contract Number, Contract Range, Bill From Date, Bill-Through Date. All other parameters are ignored. If the Bill From Date is left blank, then a default of 01-JAN-2023 is used.\nAre transactions associated with closed contracts included in the data upgrade?\nNo.\nHow are transactions identified as needing to be upgraded?\nWhere the billing status is blank.\nCan I run the data upgrade again for the same transactions?\nNot as standard. You'll need to contact Oracle Support.\nCan I reverse or undo the upgrade?\nNo.\nCurrent Limitations\nOur plan is to incrementally release value to customers, improving the user experience with every release, prioritized based on demand. Whilst we've packed as much as we can into this first release, there are sadly some elements that didn't make the cut such as action history and approvals. Look out for an upcoming post on Customer Connect where we explore some of these limitations in more detail, along with other FAQs.\nWhat's Next\nAs above, our plan is to incrementally release value and we're already working on the next enhancements to this user experience. However, we'd love to hear from you on Customer Connect to help us shape what comes next (one idea per feature please; this helps with the votes)!\nA couple of features planned for an upcoming release:\nManage bill transactions by exception by configuring rules which set the initial status and status reason of bill transactionsFor example, bill transactions are created with a status of \"On hold\", and a status reason of \"Needs review\".\nFor example, bill transactions are created with a status of \"On hold\", and a status reason of \"Needs review\".\nAbility to add more columns to the Data Grid\n\n\n### Key Resources\n\nThe Release Readiness materials for the following previously released features may provide additional useful context:Bill Transaction and Exception Analysis Using Oracle Transactional Business Intelligence (23B)Project Contract Bill Transaction Retrieval Using a REST API (23B)Bill Transaction Creation on Cost Import (23C)Bill Transaction Creation on Billing Event Creation (23D)Additional Bill and Revenue Plan Analysis Using Oracle Transactional Business Intelligence (23D)Bill Transaction Synchronization on Billing Event Update or Delete (24A)Work-in-Progress by Billing Status Analysis Using OTBI (24B)Improvements to Real-Time WIP Reporting (24C)\nBill Transaction and Exception Analysis Using Oracle Transactional Business Intelligence (23B)\nProject Contract Bill Transaction Retrieval Using a REST API (23B)\nBill Transaction Creation on Cost Import (23C)\nBill Transaction Creation on Billing Event Creation (23D)\nAdditional Bill and Revenue Plan Analysis Using Oracle Transactional Business Intelligence (23D)\nBill Transaction Synchronization on Billing Event Update or Delete (24A)\nWork-in-Progress by Billing Status Analysis Using OTBI (24B)\nImprovements to Real-Time WIP Reporting (24C)\n\n\n### Access Requirements\n\nThe bill transaction security architecture enables organizations to:\nCreate a read-only role to access the Bill Transactions page.\nAllow users to have read-only access to transactions in one data context (for example, Business Unit A), allow some actions on transactions in another data context (for example, Business Unit B), and other actions on transactions in another data context (for example, Business Unit C).\nKeep an eye out on Customer Connect for an upcoming post which takes a deeper dive into bill transaction security.\nControl access to the Bill Transactions page\nAssuming the opt-in for this feature is enabled, users must have the Manage Project Contract Bill Transaction (PJB_MANAGE_PROJECT_CONTRACT_BILL_TRANSACTION_PRIV) privilege to access the Bill Transactions page. Out of the box, this privilege is included in the following job/duty roles:\nProject Billing Specialist (ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB)\nProject Management Duty (ORA_PJF_PROJECT_MANAGEMENT_DUTY_ABSTRACT)\nGrants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB)\nGrants Administrator (ORA_PJF_GRANTS_ADMINISTRATOR_JOB)\nPrincipal Investigator (ORA_PJF_PRINCIPAL_INVESTIGATOR_JOB)\nGrants Department Administrator (ORA_PJF_GRANTS_DEPARTMENT_ADMINISTRATOR_JOB)\nControl access to which transactions a user can query\nOut of the box, data security policies are defined for the action of viewing bill transactions. The same policies are used to control data access in OTBI. Additional policies can be created as needed using the Security Console.\nUsers can query transactions on which they hold an active project manager project role.\nNote that the seeded data security policy requires the job role (also known as enterprise role) to be mapped to the user's project role using the Manage Project Roles task in Setup and Maintenance. Out of the box, the seeded Project Manager project role is mapped to the Project Manager enterprise role.\nIf your organization doesn't want to map project roles to job roles, then a custom data security policy for querying bill transactions can be created.\nControl access to which actions a user can take\nFunctional privileges control which actions a user can take on transactions. If a user does not have a functional privilege, they cannot take the corresponding action inanydata context, neither will the corresponding control/button be rendered in the UI. The following table summarizes the privileges that are available, and which job roles they are assigned to out of the box:\nChange Project Contract Bill Transaction Status to Nonbillable (PJB_BILL_TRX_ACTION_NONBILLABLE_PRIV)\nChange Project Contract Bill Transaction Status to On Hold (PJB_BILL_TRX_ACTION_ON_HOLD_PRIV)\nChange Project Contract Bill Transaction Status to Ready (PJB_BILL_TRX_ACTION_READY_PRIV)\nChange Project Contract Bill Transaction Amount to Bill (PJB_BILL_TRX_ACTION_AMT_TO_BILL_PRIV)\nChange Project Contract Bill Transaction Bill Quantity (PJB_BILL_TRX_ACTION_BILL_QTY_PRIV)\nChange Project Contract Bill Transaction Unit Price (PJB_BILL_TRX_ACTION_UNIT_PRICE_PRIV)\nChange Project Contract Bill Transaction Status to Nonbillable (PJB_BILL_TRX_ACTION_NONBILLABLE_PRIV)\nChange Project Contract Bill Transaction Status to On Hold (PJB_BILL_TRX_ACTION_ON_HOLD_PRIV)\nChange Project Contract Bill Transaction Status to Ready (PJB_BILL_TRX_ACTION_READY_PRIV)\nControl access to which actions a user can take in specific data contexts\nOut of the box, data security policies are defined for the various bill transaction actions and assigned to various job roles. This controls which action a user can take in different data contexts, as defined by the policies (assuming that the user also has the functional privilege for the action, as above). Additional policies can be created as needed using the Security Console.\nChange Project Contract Bill Transaction Status to Nonbillable Data (PJB_BILL_TRX_ACTION_NON_BILLABLE_DATA)\nChange Project Contract Bill Transaction Status to On Hold Data (PJB_BILL_TRX_ACTION_ON_HOLD_DATA)\nChange Project Contract Bill Transaction Status to Ready Data (PJB_BILL_TRX_ACTION_READY_DATA)\nChange Project Contract Bill Transaction Amount to Bill Data (PJB_BILL_TRX_ACTION_AMT_TO_BILL_DATA)\nChange Project Contract Bill Transaction Bill Quantity Data (PJB_BILL_TRX_ACTION_BILL_QTY_DATA)\nChange Project Contract Bill Transaction Unit Price Data (PJB_BILL_TRX_ACTION_UNIT_PRICE_DATA)\nUsers can perform actions on bill transactions on which they hold an active project manager project role.\nNote that the seeded data security policy requires the job role (also known as enterprise role) to be mapped to the user's project role using the Manage Project Roles task in Setup and Maintenance. Out of the box, the seeded Project Manager project role is mapped to the Project Manager enterprise role.\nIf your organization doesn't want to map project roles to job roles, then a custom data security policy for taking actions on bill transactions can be created.\nChange Project Contract Bill Transaction Status to Nonbillable Data (PJB_BILL_TRX_ACTION_NON_BILLABLE_DATA)\nChange Project Contract Bill Transaction Status to On Hold Data (PJB_BILL_TRX_ACTION_ON_HOLD_DATA)\nChange Project Contract Bill Transaction Status to Ready Data (PJB_BILL_TRX_ACTION_READY_DATA)\n\n\n| Role | Policy | Action |\n|---|---|---|\n| Project Billing Specialist (ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB) | Users can query bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Project Manager (ORA_PJF_PROJECT_MANAGER_JOB) | Users can query transactions on which they hold an active project manager project role.Note that the seeded data security policy requires the job role (also known as enterprise role) to be mapped to the user's project role using the Manage Project Roles task in Setup and Maintenance. Out of the box, the seeded Project Manager project role is mapped to the Project Manager enterprise role.If your organization doesn't want to map project roles to job roles, then a custom data security policy for querying bill transactions can be created. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Grants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB) | Users can query bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Grants Administrator (ORA_PJF_GRANTS_ADMINISTRATOR_JOB) | Users can query bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Principal Investigator (ORA_PJF_PRINCIPAL_INVESTIGATOR_JOB) | Users can query transactions on which they hold an active principle investigator award role. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Grants Department Administrator (ORA_PJF_GRANTS_DEPARTMENT_ADMINISTRATOR_JOB) | Users can query bill transactions by assigning Award Organization data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n\n\n| Role | Privilege |\n|---|---|\n| Project Billing Specialist (ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB) | Change Project Contract Bill Transaction Status to Nonbillable (PJB_BILL_TRX_ACTION_NONBILLABLE_PRIV)Change Project Contract Bill Transaction Status to On Hold (PJB_BILL_TRX_ACTION_ON_HOLD_PRIV)Change Project Contract Bill Transaction Status to Ready (PJB_BILL_TRX_ACTION_READY_PRIV)Change Project Contract Bill Transaction Amount to Bill (PJB_BILL_TRX_ACTION_AMT_TO_BILL_PRIV)Change Project Contract Bill Transaction Bill Quantity (PJB_BILL_TRX_ACTION_BILL_QTY_PRIV)Change Project Contract Bill Transaction Unit Price (PJB_BILL_TRX_ACTION_UNIT_PRICE_PRIV) |\n| Project Manager (ORA_PJF_PROJECT_MANAGER_JOB) | Change Project Contract Bill Transaction Status to Nonbillable (PJB_BILL_TRX_ACTION_NONBILLABLE_PRIV)Change Project Contract Bill Transaction Status to On Hold (PJB_BILL_TRX_ACTION_ON_HOLD_PRIV)Change Project Contract Bill Transaction Status to Ready (PJB_BILL_TRX_ACTION_READY_PRIV) |\n\n\n| Role | Policy | Action |\n|---|---|---|\n| Project Billing Specialist (ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB) | Users can perform actions on bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | Change Project Contract Bill Transaction Status to Nonbillable Data (PJB_BILL_TRX_ACTION_NON_BILLABLE_DATA)Change Project Contract Bill Transaction Status to On Hold Data (PJB_BILL_TRX_ACTION_ON_HOLD_DATA)Change Project Contract Bill Transaction Status to Ready Data (PJB_BILL_TRX_ACTION_READY_DATA)Change Project Contract Bill Transaction Amount to Bill Data (PJB_BILL_TRX_ACTION_AMT_TO_BILL_DATA)Change Project Contract Bill Transaction Bill Quantity Data (PJB_BILL_TRX_ACTION_BILL_QTY_DATA)Change Project Contract Bill Transaction Unit Price Data (PJB_BILL_TRX_ACTION_UNIT_PRICE_DATA) |\n| Project Manager (ORA_PJF_PROJECT_MANAGER_JOB) | Users can perform actions on bill transactions on which they hold an active project manager project role.Note that the seeded data security policy requires the job role (also known as enterprise role) to be mapped to the user's project role using the Manage Project Roles task in Setup and Maintenance. Out of the box, the seeded Project Manager project role is mapped to the Project Manager enterprise role.If your organization doesn't want to map project roles to job roles, then a custom data security policy for taking actions on bill transactions can be created. | Change Project Contract Bill Transaction Status to Nonbillable Data (PJB_BILL_TRX_ACTION_NON_BILLABLE_DATA)Change Project Contract Bill Transaction Status to On Hold Data (PJB_BILL_TRX_ACTION_ON_HOLD_DATA)Change Project Contract Bill Transaction Status to Ready Data (PJB_BILL_TRX_ACTION_READY_DATA) |",
+            "tables": [
+                "| Role | Policy | Action |\n|---|---|---|\n| Project Billing Specialist (ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB) | Users can query bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Project Manager (ORA_PJF_PROJECT_MANAGER_JOB) | Users can query transactions on which they hold an active project manager project role.Note that the seeded data security policy requires the job role (also known as enterprise role) to be mapped to the user's project role using the Manage Project Roles task in Setup and Maintenance. Out of the box, the seeded Project Manager project role is mapped to the Project Manager enterprise role.If your organization doesn't want to map project roles to job roles, then a custom data security policy for querying bill transactions can be created. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Grants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB) | Users can query bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Grants Administrator (ORA_PJF_GRANTS_ADMINISTRATOR_JOB) | Users can query bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Principal Investigator (ORA_PJF_PRINCIPAL_INVESTIGATOR_JOB) | Users can query transactions on which they hold an active principle investigator award role. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n| Grants Department Administrator (ORA_PJF_GRANTS_DEPARTMENT_ADMINISTRATOR_JOB) | Users can query bill transactions by assigning Award Organization data access through the Manage Data Access for Users task in Setup and Maintenance. | View Project Contract Bill Transaction (PJB_VIEW_PROJECT_CONTRACT_BILL_TRANSACTION_DATA) |\n",
+                "| Role | Privilege |\n|---|---|\n| Project Billing Specialist (ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB) | Change Project Contract Bill Transaction Status to Nonbillable (PJB_BILL_TRX_ACTION_NONBILLABLE_PRIV)Change Project Contract Bill Transaction Status to On Hold (PJB_BILL_TRX_ACTION_ON_HOLD_PRIV)Change Project Contract Bill Transaction Status to Ready (PJB_BILL_TRX_ACTION_READY_PRIV)Change Project Contract Bill Transaction Amount to Bill (PJB_BILL_TRX_ACTION_AMT_TO_BILL_PRIV)Change Project Contract Bill Transaction Bill Quantity (PJB_BILL_TRX_ACTION_BILL_QTY_PRIV)Change Project Contract Bill Transaction Unit Price (PJB_BILL_TRX_ACTION_UNIT_PRICE_PRIV) |\n| Project Manager (ORA_PJF_PROJECT_MANAGER_JOB) | Change Project Contract Bill Transaction Status to Nonbillable (PJB_BILL_TRX_ACTION_NONBILLABLE_PRIV)Change Project Contract Bill Transaction Status to On Hold (PJB_BILL_TRX_ACTION_ON_HOLD_PRIV)Change Project Contract Bill Transaction Status to Ready (PJB_BILL_TRX_ACTION_READY_PRIV) |\n",
+                "| Role | Policy | Action |\n|---|---|---|\n| Project Billing Specialist (ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB) | Users can perform actions on bill transactions by assigning (contract) Business Unit data access through the Manage Data Access for Users task in Setup and Maintenance. | Change Project Contract Bill Transaction Status to Nonbillable Data (PJB_BILL_TRX_ACTION_NON_BILLABLE_DATA)Change Project Contract Bill Transaction Status to On Hold Data (PJB_BILL_TRX_ACTION_ON_HOLD_DATA)Change Project Contract Bill Transaction Status to Ready Data (PJB_BILL_TRX_ACTION_READY_DATA)Change Project Contract Bill Transaction Amount to Bill Data (PJB_BILL_TRX_ACTION_AMT_TO_BILL_DATA)Change Project Contract Bill Transaction Bill Quantity Data (PJB_BILL_TRX_ACTION_BILL_QTY_DATA)Change Project Contract Bill Transaction Unit Price Data (PJB_BILL_TRX_ACTION_UNIT_PRICE_DATA) |\n| Project Manager (ORA_PJF_PROJECT_MANAGER_JOB) | Users can perform actions on bill transactions on which they hold an active project manager project role.Note that the seeded data security policy requires the job role (also known as enterprise role) to be mapped to the user's project role using the Manage Project Roles task in Setup and Maintenance. Out of the box, the seeded Project Manager project role is mapped to the Project Manager enterprise role.If your organization doesn't want to map project roles to job roles, then a custom data security policy for taking actions on bill transactions can be created. | Change Project Contract Bill Transaction Status to Nonbillable Data (PJB_BILL_TRX_ACTION_NON_BILLABLE_DATA)Change Project Contract Bill Transaction Status to On Hold Data (PJB_BILL_TRX_ACTION_ON_HOLD_DATA)Change Project Contract Bill Transaction Status to Ready Data (PJB_BILL_TRX_ACTION_READY_DATA) |\n"
+            ],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37016_1.png",
+                    "alt": "The Bill Transactions page with search, currency toggle, and data grid features highlighted."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37016_2.png",
+                    "alt": "The Bill Transactions page with status badge, status reason, and change status action control highlighted."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37016_3.png",
+                    "alt": "The Bill Transactions page with a change status action in progress."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37016_4.png",
+                    "alt": "A single Bill Transaction opened to show more details."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37016_5.png",
+                    "alt": "The Bill Transactions page showing the currency switcher and currency conversion indicator"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37016_6.png",
+                    "alt": "The Bill Transaction page showing a keyword search on Transaction Number."
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37015.htm#ppm25b-f37015"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35865.htm"
+                },
+                {
+                    "text": "Bill Transaction Creation on Cost Import",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23C/23C-ppm-wn.htm*F28340__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS54hdzyNUg$"
+                },
+                {
+                    "text": "Bill Transaction and Exception Analysis Using Oracle Transactional Business Intelligence (23B)",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23B/23B-ppm-wn.htm*F27116__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS57_0WiBVQ$"
+                },
+                {
+                    "text": "Bill Transaction Creation on Cost Import",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23C/23C-ppm-wn.htm*F28340__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS54hdzyNUg$"
+                },
+                {
+                    "text": "Bill Transaction and Exception Analysis Using Oracle Transactional Business Intelligence (23B)",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23B/23B-ppm-wn.htm*F27116__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS57_0WiBVQ$"
+                },
+                {
+                    "text": "Project Contract Bill Transaction Retrieval Using a REST API (23B)",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23B/23B-ppm-wn.htm*F27316__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS57EH5ik7A$"
+                },
+                {
+                    "text": "Bill Transaction Creation on Cost Import (23C)",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23C/23C-ppm-wn.htm*F28340__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS54hdzyNUg$"
+                },
+                {
+                    "text": "Bill Transaction Creation on Billing Event Creation (23D)",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23D/23D-ppm-wn.htm*F29761__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS56H6vgbIQ$"
+                },
+                {
+                    "text": "Additional Bill and Revenue Plan Analysis Using Oracle Transactional Business Intelligence (23D)",
+                    "url": "https://urldefense.com/v3/__https:/www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23D/23D-ppm-wn.htm*F29602__;Iw!!E1R1dd1bLLODlQ4!B3qVinwKtQrMbE7_EHHJcjNIlxUp_aeVzV7pUQLRgwoFJcDqCkuwLCMZ_zFpXfgPzvrhTwKQPpW4A8RaS57Kmz1x1Q$"
+                },
+                {
+                    "text": "Bill Transaction Synchronization on Billing Event Update or Delete (24A)",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/24a/24a-ppm-wn.htm"
+                },
+                {
+                    "text": "Work-in-Progress by Billing Status Analysis Using OTBI (24B)",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/24B/24B-ppm-wn.htm#F32065"
+                },
+                {
+                    "text": "Improvements to Real-Time WIP Reporting (24C)",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/24c/ppm24c/24C-ppm-wn-f33703.htm#ppm24c-f33703"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:20.438501"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35865.htm",
+            "title": "View Contract Owners in Contract Search Results",
+            "content": "# View Contract Owners in Contract Search Results\nYou can now view contract owners in the Search Results area from the Contracts landing page. The Owner field is available in both the classic and simplified UI pages. Similar to other fields in the search results table list, you can hide, resize, and reorder the Owner field. If there's more than one owner, hover over the field or use the wrap feature to see all the contract owners.\n\nOwner field highlighted in the search results table\n\nYou can view the owners of all the contracts without opening the contracts, thus saving you time.\n\n\n### Steps to Enable\n\nYou don't need to do anything to enable this feature.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F35865_1.png",
+                    "alt": "Owner field highlighted in the search results table"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37016.htm#ppm25b-f37016"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f36523.htm"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:21.486492"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f36523.htm",
+            "title": "Classify Contract Key Terms",
+            "content": "# Classify Contract Key Terms\nYou can classify or categorize contract key terms according to your custom business rules. Classification provides a quick overview of critical key terms, allowing you to identify those that require attention. It helps in risk assessment by highlighting potential issues, drawing attention to non-standard clauses, and distinguishing between favorable and unfavorable terms within the contract.\nTo classify each key term, you must define rules in Groovy and validate them beforehand. You have the flexibility to create your own classification codes, such as 'Standard,' 'Non-Standard,' 'Favorable,' 'Unfavorable,' 'Neutral,' and more. For instance, a potential rule for the renewal percentage key term could be:\nIf the renewal percentage exceeds 5, classify it as 'Favorable.'If the renewal percentage falls between 3 and 5, consider it 'Neutral.'If the percentage is below 3, classify it as 'Unfavorable.'\n\nClassifying key terms enables stakeholders to swiftly analyze the contract's critical elements, enabling them to make informed decisions.\n\n\n### Steps to Enable\n\nUse the Opt In UI to enable this feature. For instructions, refer to the Optional Uptake of New Features section of this document.\nOffering:Enterprise Contracts\n\n\n### Tips And Considerations\n\nThe opt-in Classify Contract Key Terms can be enabled only if the parent opt-in Extract Key Terms From Contract Documents Using Generative AI is enabled.\n\n\n### Key Resources\n\nFor detailed information, please refer the play bookHow do I extract and classify key terms from contract documents?\nReferExtract Key Terms from Contract Documents using Generative AIfor extracting key terms.",
+            "tables": [],
+            "images": [],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35865.htm#ppm25b-f35865"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35275.htm"
+                },
+                {
+                    "text": "How do I extract and classify key terms from contract documents?",
+                    "url": "http://docs.oracle.com/en/cloud/saas/sales/playbooks.html"
+                },
+                {
+                    "text": "Extract Key Terms from Contract Documents using Generative AI",
+                    "url": "https://docs.oracle.com/pls/topic/lookup?ctx=saas-readiness&id=sfau-25b-f35275"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:22.552197"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35275.htm",
+            "title": "Extract Key Terms from Contract Documents Using Generative AI",
+            "content": "# Extract Key Terms from Contract Documents Using Generative AI\nUsing Generative AI you can now extract Key Terms from contract documents much easier, faster and more accurate. Key terms are important information that you want to retrieve from the contract documents like payment terms, renewal date, jurisdiction, penalty for early termination etc. The insights that you draw from the contracts will help in making informed decisions during contract negotiation and analysis.\nSetup Key Terms and Prompts\nAdministrator can setup key terms and the corresponding prompts. Prompts are the questions that are sent to Generative AI to extract the key terms. Prompts can be different for each contract type. You can test the prompt against different contract documents before making it Active.  Only Active key terms and prompts can be used in the contracts. This UI is available from the contracts landing page Setup->Manage Key Terms and Prompts.\n\nKey terms list page\nPrompt Details\nDraft a prompt and test it against different contract documents to see if the response is as expected. Fine tune the prompt to get the required response. Use the additional instructions field to get the response in a specific format. Set the final prompt to Active.\n\nPrompt details\nAdd prompts to contract types\nA key term can have multiple prompts. Select the key term and the prompt to be used for a particular contract type in the Manage Contract Types UI.\n\nManage contract types\n\nAutomatic key terms extraction saves time and improves the efficiency of the contract review process.\n\n\n### Steps to Enable\n\nUse the Opt In UI to enable this feature. For instructions, refer to the Optional Uptake of New Features section of this document.\nOffering:Enterprise Contracts\nEnable the opt-inExtract Key Terms from Contract Documents Using Generative AI.Setup the key terms and prompts and associate them to a contract type. Refer the above section for the details.\n\n\n### Key Resources\n\nFor detailed information, please refer the play bookHow do I extract and classify key terms from contract documents?\nReferClassify Key Termsto classify the extracted key terms.\n\n\n### Access Requirements\n\nEnable the opt-in Extract Key Terms from Contract Documents Using Generative AI.Manage Key Terms and Prompts(OKC_MANAGE_GEN_AI_KEY_TERM_SETUP_PRIV)and Use Generative AI Features in Sales(ZCA_USE_GENAI_IN_SALES_PRIV)privileges are added tothe Contract Setup Duty role. Users with this role canCan create key terms and prompts from the âManage Key Terms and Promptsâ menu in the contract landing pageAdd key terms and prompts to the contract types in the Key Terms tab in the âManage Contract Typesâ UI\nEnable the opt-in Extract Key Terms from Contract Documents Using Generative AI.\nManage Key Terms and Prompts(OKC_MANAGE_GEN_AI_KEY_TERM_SETUP_PRIV)and Use Generative AI Features in Sales(ZCA_USE_GENAI_IN_SALES_PRIV)privileges are added tothe Contract Setup Duty role. Users with this role canCan create key terms and prompts from the âManage Key Terms and Promptsâ menu in the contract landing pageAdd key terms and prompts to the contract types in the Key Terms tab in the âManage Contract Typesâ UI\nCan create key terms and prompts from the âManage Key Terms and Promptsâ menu in the contract landing page\nAdd key terms and prompts to the contract types in the Key Terms tab in the âManage Contract Typesâ UI\nEdit Key Term Values(OKC_EDIT_KEY_TERM_VALUES_PRIV) privilege andUse Generative AI Features in Sales(ZCA_USE_GENAI_IN_SALES_PRIV) privilege andEdit Contract(OKC_EDIT_CONTRACT_PRIV) privilegesare needed toAccess the âExtract Key Term Valuesâ menu item in the Edit Contract UISubmit the âExtract key terms from contract documentsâ scheduled process through REST (extractKeyTermValues)View Contract(OKC_VIEW_CONTRACT_PRIV)privilege is needed to access the key term values tab in read-only modeEdit Contract(OKC_EDIT_CONTRACT_PRIV)privilege andEdit Key Term Values(OKC_EDIT_KEY_TERM_VALUES_PRIV) privileges are needed to edit the key terms in Key Term Values tab\nEdit Key Term Values(OKC_EDIT_KEY_TERM_VALUES_PRIV) privilege andUse Generative AI Features in Sales(ZCA_USE_GENAI_IN_SALES_PRIV) privilege andEdit Contract(OKC_EDIT_CONTRACT_PRIV) privilegesare needed toAccess the âExtract Key Term Valuesâ menu item in the Edit Contract UISubmit the âExtract key terms from contract documentsâ scheduled process through REST (extractKeyTermValues)\nAccess the âExtract Key Term Valuesâ menu item in the Edit Contract UI\nSubmit the âExtract key terms from contract documentsâ scheduled process through REST (extractKeyTermValues)\nView Contract(OKC_VIEW_CONTRACT_PRIV)privilege is needed to access the key term values tab in read-only mode\nEdit Contract(OKC_EDIT_CONTRACT_PRIV)privilege andEdit Key Term Values(OKC_EDIT_KEY_TERM_VALUES_PRIV) privileges are needed to edit the key terms in Key Term Values tab",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F35275_1.png",
+                    "alt": "Key terms list page"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F35275_2.png",
+                    "alt": "Prompt details"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F35275_3.png",
+                    "alt": "Manage contract types"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f36523.htm#ppm25b-f36523"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37014.htm"
+                },
+                {
+                    "text": "How do I extract and classify key terms from contract documents?",
+                    "url": "http://docs.oracle.com/en/cloud/saas/sales/playbooks.html"
+                },
+                {
+                    "text": "Classify Key Terms",
+                    "url": "https://docs.oracle.com/pls/topic/lookup?ctx=saas-readiness&id=sfau-25b-f36523"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:23.608798"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37014.htm",
+            "title": "Payroll Cost Distribution to Projects Using Time Cards",
+            "content": "# Payroll Cost Distribution to Projects Using Time Cards\nDistribute payroll costs to projects using existing time card hours in Project Costing as the distribution basis. Record time on projects using Oracle Fusion Time and Labor, Oracle Fusion Projects, or third-party sources, and calculate the cost of the time transactions using distributed actual payroll costs. This payroll cost distribution method provides the most accurate costing of the labor effort on a project, allowing for efficient cost control and enhanced financial analysis. This new method extends the labor cost distribution capabilities in Project Costing, providing a time card based distribution option in addition to the existing person assignment and payroll cost configuration methods.\nThe following steps describe how to use the new time card distribution method for allocating payroll costs to projects:\nEnable the Distribute Using Time Cards option when creating a new person assignment labor schedule version. A distribution rule specifying time card distribution as the basis is automatically created.Labor Schedule Version Enabled For Time Card Distribution\nLabor Schedule Version Enabled For Time Card Distribution\nDefine the pay elements that you want to use when distributing costs from Oracle Fusion Payroll to projects and specify the new Time Card Distribution Basis for each. If you are importing payroll costs from third-party sources, you must specify the Time Card Distribution Basis for each payroll cost when loading into the interface table if these costs will be distributed to projects using the time card distribution method.Specify Which Target Time Cards Are Eligible For Each Pay Element Based on Expenditure Type Class\nSpecify Which Target Time Cards Are Eligible For Each Pay Element Based on Expenditure Type Class\nImport time cards into Project Costing from either Oracle Fusion Time and Labor, Oracle Fusion Projects, or a third-party time reporting source. The Import Costs process determines whether a time card transaction being imported is eligible to be recosted using distributed payroll actual costs. If it is, then the time card transaction is imported into Project Costing with a 0 cost rate, and its payroll costed status is Pending.Time Cards Pending Payroll Costing Have a Cost of 0NOTE:For a billable time card transaction, if the pricing method is based on cost, such as the case for the cost reimbursable method, then \"The transaction isn't billed because billing is based on raw or burdened cost that's zero. (PJB_ZERO_COST)\" billing exceptions will be raised for time cards that are pending payroll distribution when bill or revenue transactions are created. Consider setting these transactions to Nonbillable or placing a billing or revenue hold on them until they are successfully costed using distributed payroll actual costs in order to prevent or remove the undesired PJB_ZERO_COST billing exceptions.\nTime Cards Pending Payroll Costing Have a Cost of 0\nNOTE:For a billable time card transaction, if the pricing method is based on cost, such as the case for the cost reimbursable method, then \"The transaction isn't billed because billing is based on raw or burdened cost that's zero. (PJB_ZERO_COST)\" billing exceptions will be raised for time cards that are pending payroll distribution when bill or revenue transactions are created. Consider setting these transactions to Nonbillable or placing a billing or revenue hold on them until they are successfully costed using distributed payroll actual costs in order to prevent or remove the undesired PJB_ZERO_COST billing exceptions.\nRun payroll and account for the payroll costs if the source of your payroll is Oracle Fusion Payroll. Otherwise, load externally-sourced payroll costs into the interface table.\nSchedule the Import Payroll Costs process to distribute the payroll as defined. For time card distribution, all payroll costs for a specific person assignment in the payroll period are summarized by time card distribution basis. The target time cards in Project Costing are identified, and the total amount that each target transaction should receive is calculated, and each transaction is then recosted using a newDistribute payroll costsadjustment type.Imported Payroll Costs Successfully Distributed to Time CardsTarget Time Cards After Payroll Cost Distribution\nImported Payroll Costs Successfully Distributed to Time Cards\n\nTarget Time Cards After Payroll Cost Distribution\nFurther planned enhancements for this feature include:\nOption to exclude time cards that are pending payroll cost distribution from the invoicing and revenue recognition processes when the pricing method of the transaction is based on cost.\nDisplayed time card distribution results for a processed labor cost in the Manage Labor Costs user interface and in an API.\nOption to calculate a provisional cost for a time card transaction using standard costing prior to the distribution of actual payroll costs.\nAbility to define time card distribution schedules at a higher level than person assignment, such as by department or business unit.\n\nThis feature offers the following business benefits:\nIncreased profitability through enhanced financial analysis provided by the most accurate costing of the labor effort expended on a project.\nAbility to make better-informed decisions based on the more accurate labor costs recorded on a project.\nElimination of labor schedule distribution rule maintenance, leading to time and cost savings. Using time card distribution, payroll costs are dynamically allocated to the projects on which a person worked using the person's reported time.\nHere's the demo of these capabilities:\n\n\n\n\n### Steps to Enable\n\nYou don't need to do anything to enable this feature.\n\n\n### Tips And Considerations\n\nThe time card distribution method can be configured only for person assignment labor shedules.\nUpdate your existing pay elements in Labor Distribution with a Time Card Distribution Basis value if these pay elements will be used to distribute payroll costs to projects using time cards.\nPayroll costs are distributed to the time cards that exist in Project Costing when the Import Payroll Costs process is executed. Therefore, ensure that all time cards within the payroll period date range have been imported into Project Costing prior to running the Import Payroll Costs process.\nUse the Cost Distribution Payroll Costed Indicator subledger accounting source in your rules for the Labor Cost and Labor Cost Adjustment event classes if you need to account for labor costs differently based on costs calculated using standard costing or payroll costing.\nAll payroll costs to be distributed to a time card transaction must have the same currency.\nThe payroll cost distribution to time cards is tracked using a newDistribute payroll costsproject cost adjustment type. The Allow Adjustments configuration setting on the document entry of a third-party transaction source is not considered when distributing payroll costs to time cards. TheAdjust transactionssetting on a project status action control, however, is considered when distributing payroll costs to time cards. If a project's current status is configured to not allow transaction adjustments, then the payroll cost distribution adjustments to target time card transactions on that project will fail.\nThe method for distributing payroll costs to time cards involves calculating an overall cost rate across all payroll pay element costs targeting a particular time card transaction, and then multiplying that rate by the transaction's quantity to calculate the raw cost amount. Raw cost amounts are not rounded on the transaction records in the database, however, the raw cost amounts are rounded to the precision of the transaction's currency when displayed in the Manage Project Costs page or when generating accounting for the time card transaction.\nIf the time card quantities change in Project Costing after a successful distribution of payroll costs, such as by importing a new time card transaction that meets the payroll distribution eligibility criteria, then the status of the relevant labor cost records in Labor Distribution is updated to Needs Reprocesing. You can redistribute payroll costs to the revised set of target time cards using one of the Process Costs options in the Manage Labor Costs page.\n\n\n### Key Resources\n\nTo understand how this new feature fits into the overall scope of payroll cost distribution, review the related help:Labor Distribution section of the Using Project Costing guide.\nLabor Distribution section of the Using Project Costing guide.\nBased on Idea763509from the Project Management Idea Lab and Idea673210from the Payroll, Compensation and Benefits Idea Lab on Oracle Cloud Customer Connect.\n\n\n### Access Requirements\n\nNo new access requirements.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37014_1.png",
+                    "alt": "Labor Schedule Version Enabled For Time Card Distribution"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37014_2.png",
+                    "alt": "Specify Which Target Time Cards Are Eligible For Each Pay Element Based on Expenditure Type Class"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37014_3.png",
+                    "alt": "Time Cards Pending Payroll Costing Have a Cost of 0"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37014_4.png",
+                    "alt": "Imported Payroll Costs Successfully Distributed to Time Cards"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37014_5.png",
+                    "alt": "Target Time Cards After Payroll Cost Distribution"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f35275.htm#ppm25b-f35275"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37017.htm"
+                },
+                {
+                    "text": "763509",
+                    "url": "https://community.oracle.com/customerconnect/discussion/763509"
+                },
+                {
+                    "text": "673210",
+                    "url": "https://community.oracle.com/customerconnect/discussion/comment/673210"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:24.662346"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37017.htm",
+            "title": "Financial Project Progress Reporting for Resources in OTBI",
+            "content": "# Financial Project Progress Reporting for Resources in OTBI\nView the progress of a resource in the Project Control - Progress Real Time OTBI subject area for reporting. Use the resource dimension and measures in the Project Control - Progress Real Time subject area to easily report the progress of a resource, both within and across projects. For example, report on how much work is complete for a Named Person resource assigned on a task.\n\nFinancial Project Progress Reporting for Resources in OTBI\n\nThe business benefits are:\nAccurate progress updates based on the actual work completed by each resource in the financial project plan.\nWith concrete work completion data at the resource level, project timelines can be predicted and communicated to stakeholders more accurately.\n\n\n### Steps to Enable\n\nYou don't need to do anything to enable this feature.\n\n\n### Key Resources\n\nRelated Help:Subject Areas for Project Management Real-Time Analyses in the Creating and Administering Analytics and Reports for Project Management guideAvailable Dimensions for Project Management Subject Areas in the Creating and Administering Analytics and Reports for Project Management guideBased on Idea787003from the Project Management Idea Labs on Oracle Cloud Customer Connect.\nSubject Areas for Project Management Real-Time Analyses in the Creating and Administering Analytics and Reports for Project Management guide\nAvailable Dimensions for Project Management Subject Areas in the Creating and Administering Analytics and Reports for Project Management guide\nBased on Idea787003from the Project Management Idea Labs on Oracle Cloud Customer Connect.\n\n\n### Access Requirements\n\nTo access the Project Control - Progress Real Time subject area in OTBI, you need the Project Progress Transaction Analysis Duty (FBI_PROJECT_PROGRESS_TRANSACTION_ANALYSIS_DUTY) privilege.\nData access can be secured using one of the predefined Data Security Policies (DSPs) for the PJF_PROJECTS_ALL_VL database resource, or a custom DSP can be created to meet specific requirements.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37017_1.png",
+                    "alt": "Financial Project Progress Reporting for Resources in OTBI"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37014.htm#ppm25b-f37014"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37024.htm"
+                },
+                {
+                    "text": "787003",
+                    "url": "https://community.oracle.com/customerconnect/discussion/787003"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:25.725442"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37024.htm",
+            "title": "Project Notes in Project-Related OTBI Subject Areas",
+            "content": "# Project Notes in Project-Related OTBI Subject Areas\nView notes in the project-related OTBI subject areas for reporting. Users can view the notes that are recorded in the project lifecycle for project, project plan, project progress, and project invoices in the related subject areas.\nNotes for project budget and forecast will be available in a future release.\nNew attributes have been introduced in OTBI, allowing users to report on notes captured at various levels of the project lifecycle. The enhancements apply to the following subject areas and their respective folders:\n1.  Project Control - Financial Project Plans Real Time\nFolder - Financial Project Plan NotesAttributes:Resource Notes - Notes recorded at the resource level under the Tasks tab on theManage Financial Project Planpage.Task Notes - Notes recorded at the task level under the Tasks tab on theManage Financial Project Planpage.\nAttributes:Resource Notes - Notes recorded at the resource level under the Tasks tab on theManage Financial Project Planpage.Task Notes - Notes recorded at the task level under the Tasks tab on theManage Financial Project Planpage.\nResource Notes - Notes recorded at the resource level under the Tasks tab on theManage Financial Project Planpage.\nTask Notes - Notes recorded at the task level under the Tasks tab on theManage Financial Project Planpage.\n\nTask Notes in the Manage Financial Project Plan Page\n\nTask Notes in the Project Control - Financial Project Plans Real Time Subject Area in OTBI\n2.  Project Control - Progress Real Time\nFolder level 1 - Progress\nFolder level 2 - Progress NotesAttributes:Project Progress Notes - Notes recorded at the project level under the Progress tab on theManage Financial Project Planpage.Project Progress Task Notes - Notes recorded at the task level under the Progress tab on theManage Financial Project Planpage.\nAttributes:Project Progress Notes - Notes recorded at the project level under the Progress tab on theManage Financial Project Planpage.Project Progress Task Notes - Notes recorded at the task level under the Progress tab on theManage Financial Project Planpage.\nProject Progress Notes - Notes recorded at the project level under the Progress tab on theManage Financial Project Planpage.\nProject Progress Task Notes - Notes recorded at the task level under the Progress tab on theManage Financial Project Planpage.\n\nProject Progress Notes in the Manage Financial Project Plan Page\n\nProject Progress Notes in Project Control - Progress Real Time Subject Area in OTBI\n3.  Project Billing - Invoices Real Time\nFolder level 1 - Invoice Details\nFolder level 2 - Invoice NotesAttributes:Invoice Header Notes - Notes recorded in the Invoice Header section on theManage Invoicespage.Invoice Line Notes - Notes recorded in the Invoice Lines section on theManage Invoicespage.\nAttributes:Invoice Header Notes - Notes recorded in the Invoice Header section on theManage Invoicespage.Invoice Line Notes - Notes recorded in the Invoice Lines section on theManage Invoicespage.\nInvoice Header Notes - Notes recorded in the Invoice Header section on theManage Invoicespage.\nInvoice Line Notes - Notes recorded in the Invoice Lines section on theManage Invoicespage.\n\nInvoice Line Notes in Manage Invoices Page\n\nInvoice Line Notes in Project Billing - Invoices Real Time in OTBI\n\nThe business benefit of this feature is improved visibility of project lifecycle notes for better tracking and reporting, and streamlined access within dedicated OTBI subject areas.\n\n\n### Steps to Enable\n\nYou don't need to do anything to enable this feature.\n\n\n### Key Resources\n\nBased on Idea675729from the Project Management Idea Labs on Oracle Cloud Customer Connect.\n\n\n### Access Requirements\n\nNo new access requirements.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37024_1.png",
+                    "alt": "Task Notes in the Manage Financial Project Plan Page"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37024_2.png",
+                    "alt": "task notes"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37024_3.png",
+                    "alt": "Project progress notes recorded under the Progress tab in Manage Financial Project Plan"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37024_4.png",
+                    "alt": "Project notes"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37024_5.png",
+                    "alt": "Invoice line notes recorded in Manage Invoices"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37024_6.png",
+                    "alt": "Invoice notes"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37017.htm#ppm25b-f37017"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37023.htm"
+                },
+                {
+                    "text": "675729",
+                    "url": "https://community.oracle.com/customerconnect/discussion/675729/project-notes-and-attachments-to-be-included-in-otbi"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:26.781240"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37023.htm",
+            "title": "Project Proposal Generation",
+            "content": "# Project Proposal Generation\nCreate a comprehensive project proposal that covers project objectives, scope, timeline, budget estimates, and staffing plans, using Oracle AI during project planning. Project managers can easily edit and finalize the proposal, saving time and improving efficiency. For example, when starting projects from advanced sales opportunities, use the project proposal to clearly communicate the project's goals, scope, and expected outcomes to stakeholders, securing the required funding and resources.\nProject managers can efficiently create detailed project proposals from theProject Management work areathrough the action panel underManage Project Proposals, reducing manual effort and improving accuracy.\nAs part of the proposal generation, quickly review the project details and make necessary adjustments before generating a complete proposal with asingle click.\nProposal Structure\nThe generated project proposal consists of four independently created sections, each designed to provide clear and comprehensive insights:\nCompany Background - Introduces the company, highlighting its expertise, industry presence, and key capabilities.\nExecutive Summary - Provides a concise overview of the project purpose, objectives, goals, expected outcomes, and how the project aligns with stakeholder expectations.\nImplementation Plan - Details the approach for execution, including major milestones, timelines, and estimated budget.\nResource Plan - Details the resource requirements, including project roles and financial allocations.\nEach section is fully editable, allowing users to update content as needed. Additionally, sections can be regenerated individually for further customization.\n\nImplementation Plan and Project Timeline on Generated Project Proposal\nManaging Proposals\nSave a proposal for later revisions, or publish instantly. Access both draft and published proposals from theManage Project Proposals page, and download them as PDF or Word documents to share with stakeholders.\n\nManage Project Proposals Page\n\nThe business benefits of this feature are:\nSignificantly reduces proposal creation time, minimizing manual errors and improving efficiency.\nQuickly generate tailored project proposals that align with specific client requirements by updating the automatically generated proposal.\nAllows project stakeholders to make informed decisions faster, helping secure the necessary funding and resources without delays.\nEnables organizations to respond rapidly to advanced sales opportunities, increasing their chances of winning projects by presenting well-defined plans to clients.\nHere's the demo of these capabilities:\n\n\n\n\n### Steps to Enable\n\nUse the Opt In UI to enable this feature. For instructions, refer to the Optional Uptake of New Features section of this document.\nOffering:Project Financial Management\n\n\n### Tips And Considerations\n\nTo use this generative AI-powered feature, both new and existing customers need to opt-in. Once opted-in, you can immediately start generating project proposals.\nThe system will automatically generate the project proposal in your preferred language if it's one of the languages mentioned under Author/Summarize sectionhere. For other languages, the summary will be provided in English.\nFor accurate and impactful project proposals, ensure the project includes a high-level plan, budget, and clear description.\n\n\n### Access Requirements\n\nTo use this feature, you need the following functional and data privileges:\nManage Project Proposal (PJF_MANAGE_PROJECT_PROPOSAL_PRIV)\nManage Project Proposal Data (PJF_MANAGE_PROJECT_PROPOSAL_DATA)\nThe privileges listed above are included in the following predefined job role:\nProject Manager (ORA_PJF_PROJECT_MANAGER)\nIf you use custom roles instead of the predefined job role above, you must assign the Manage Project Proposal privilege to your custom roles to use this feature.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37023_1.png",
+                    "alt": "Implementation Plan and Project Timeline on Generated Project Proposal"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37023_2.png",
+                    "alt": "Manage Project Proposals Page"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37024.htm#ppm25b-f37024"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37021.htm"
+                },
+                {
+                    "text": "here",
+                    "url": "https://docs.oracle.com/en/cloud/saas/fusion-ai/aiaqa/what-are-the-languages-supported-by-oracle-ai.html"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:27.829678"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37021.htm",
+            "title": "Change Order Automation for Financial Project Plan Amount Adjustments",
+            "content": "# Change Order Automation for Financial Project Plan Amount Adjustments\nPerform a detailed impact assessment of planned amounts on a financial project plan and automatically update the plan when the change is approved. For example, record a change by adding efforts and amounts for specific task assignments and view the overall impact on the project plan. Upon stakeholder approval, implement these changes to the financial project plan automatically. Automation improves accuracy during assessment and implements the changes without any further involvement from the change order owner.\nTo create a financial project plan impact assessment, select the Project Plan impact area in the Add Impact dialog box and then select the task and resource for which impacts are to be assessed. For example, if there's a scope increase that requires an additional 200 hours for a consultant resource, enter 200 as the quantity. If there's a scope decrease, enter -200. For rate-based resources such as a consultant, the amounts are automatically calculated using the rate settings defined in the financial project plan settings. Optionally, override the amounts by entering both the quantity and cost or revenue amounts.\n\nAdd project plan impact details page\nAfter the change order is approved and moved to the implementation stage, select theImplement and Mark Completeaction to include the financial amount impacts. This action will add the financial impacts to the planned quantity and amounts of the financial project plan. Note that these amounts are editable from the Manage Financial Project Plan page.\n\nImplement and mark complete action to include changes in the financial project plan\nBusiness analysts can now leverageOracle Transactional Business Intelligence (OTBI)to generate detailed reports on project plan impacts. This enables users to analyze key financial metrics, such as thecumulative cost and revenue impactof pending change orders, broken down by tasks or resources within a project. With enhanced visibility, decision-makers can proactively assess financial risks and opportunities associated with project changes.Additionally, users cancreate, view, update, or deleteproject plan impact details using theChange Impact Details RESTresource, providing greater flexibility and automation in your existing change management integration solutions.\n\nBusiness benefits of using this feature are:\nImprovement in project profitability and cost control by preventing margin erosion and project disruptions. Effective change management ensures every modification is assessed for its impact, keeping the project plan on track and optimized.\nReduction in administrative overhead in keeping project plans up to date by automatically including change order impacts, allowing teams to focus on high-value activities.\n\n\n### Steps to Enable\n\nUse the Opt In UI to enable this feature. For instructions, refer to the Optional Uptake of New Features section of this document.\nOffering:Project Financial ManagementâNo Longer Optional From:Update 26B\nThe feature opt-in choice is set toYesby default, making it ready for immediate use. If additional time is needed before activating this feature, you have the option to set the Opt-in choice toNo. This feature will be always enabled from update 26B.\n\n\n### Tips And Considerations\n\nAs a best practice, create a baseline of the project plan after implementing a change order that impacts it. This ensures better progress tracking and also allows you to automatically generate a new version of the budget.\n\n\n### Key Resources\n\nThis feature extends the change order impact assessment capability, first introduced for budgets in 24A asChange Order Automation for Project Budget Adjustments, to the Financial Project Plan.\n\n\n### Access Requirements\n\nTo use this feature you need these privileges:\nManage Project Changes (PJE_MANAGE_PROJECT_CHANGE_PRIV) to create a change order, perform impact assessment, review, approve, and implement a change order.\nManage Project Task Structure (PJF_MANAGE_PROJECT_TASK_STRUCTURE_DATA) to automatically implement a change order with project plan impacts.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37021_1.png",
+                    "alt": "Screenshot of add project plan impact details page"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37021_2.png",
+                    "alt": "Implement and mark complete action to include changes in financial project plan"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37023.htm#ppm25b-f37023"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37020.htm"
+                },
+                {
+                    "text": "Change Order Automation for Project Budget Adjustments",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/24a/ppm24a/24A-ppm-wn-f30828.htm#ppm24a-f30828"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:28.880196"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37020.htm",
+            "title": "Project Change Order Summary Generation",
+            "content": "# Project Change Order Summary Generation\nCreate a comprehensive summary of a project change order with a single click. The summary highlighting the impact of the change order on the project financials helps align stakeholders with project updates and eases approvals. The AI-generated summary can be easily edited and finalized saving the project manager valuable time.\nFor example, in a solar power plant construction project, the client requests an immediate increase in battery storage capacity. The change owner quickly completes the impact assessment, generates a comprehensive change order summary, and moves it for approval, ensuring fast and seamless execution.\n\nChange order summary in the details page\n\nChange order summary in the approval notification\n\nThe business benefits of this feature are as follows:\nStreamlines stakeholder alignment, speeds up approvals, and enables informed decision-making with a comprehensive, AI-driven change order summary.\nChange order approvers and reviewers can quickly review the change order summary and take necessary actions directly from notifications on the go, eliminating the need to navigate the application interface.\nHere's the demo of these capabilities:\n\n\n\n\n### Steps to Enable\n\nUse the Opt In UI to enable this feature. For instructions, refer to the Optional Uptake of New Features section of this document.\nOffering:Project Execution Management\n\n\n### Tips And Considerations\n\nSave the newly created change order before generating its summary.\nTo use this generative AI-powered feature, both new and existing customers need to opt-in. Once opted-in, you can immediately start generating the change order summary.\nThe system will automatically generate the change order summary in your preferred language if it's one of the languages mentioned under the Author/Summarize sectionhere. For other languages, the summary will be provided in English.\n\n\n### Access Requirements\n\nTo use this feature, you need the following privilege:\nManage Project Changes(PJE_MANAGE_PROJECT_CHANGE_PRIV)",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37020_1.png",
+                    "alt": "Change order summary in the details page"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37020_2.png",
+                    "alt": "Change order summary in the approval notification"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37021.htm#ppm25b-f37021"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37019.htm"
+                },
+                {
+                    "text": "here",
+                    "url": "https://docs.oracle.com/en/cloud/saas/fusion-ai/aiaqa/what-are-the-languages-supported-by-oracle-ai.html"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:29.949463"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37019.htm",
+            "title": "Prepayment Transaction Type Selection When Submitting Awards",
+            "content": "# Prepayment Transaction Type Selection When Submitting Awards\nSpecify prepayment transaction type when submitting contract from award. This prepayment transaction type is then used for prepayment request invoices generated for the award and sent to Receivables.\nThe new prepayment transaction type attribute can optionally be entered by a grants administrator in the Update Contract dialog box, as highlighted in the screenshot below. The prepayment transaction type list of values displays all the active Receivables invoice transaction types that have a transaction subclass of 'Prepayment'.\nThe prepayment transaction type attribute is also supported in the Award REST API and the Import Awards File-Based Data Import (FBDI).\n\nPrepayment Transaction Type\nThe prepayment transaction type entered on the award is used for prepayment invoices generated for the award and processed to Receivables. In the case of cancelled prepayment invoices resulting in credit memos, the credit memo type associated with the prepayment transaction type is sent to Receivables.\nThe prepayment transaction type attribute is also displayed in the billing details section of the award, as highlighted in the screenshot below.\n\nContract Summary\n\nThe business benefit of this feature is improved flexibility and control over how project contract prepayment invoices are handled by Receivables, through the ability to assign user-defined prepayment transaction types to awards.\n\n\n### Steps to Enable\n\nYou don't need to do anything to enable this feature.\n\n\n### Tips And Considerations\n\nThe transaction type set assigned to the prepayment transaction type should be identical to the set assigned to the Receivables transaction type reference data object at the business unit level.\n\nReceivables Transaction Type Setup\n\nBusiness Unit Set Assignment\nIf a prepayment transaction type isn't selected on the award, the predefined prepayment transaction type 'ORA_PA_Prepayment' is used for prepayment invoices.\n\n\n### Key Resources\n\nPlease refer to the following previously released features for related information:Advanced Project Contract Prepayment Billing(25A).Project Contract Prepayment Billing(24D).Automation of Invoicing and Receipt Applications for Advance Payments(24B, Receivables).\nAdvanced Project Contract Prepayment Billing(25A).\nProject Contract Prepayment Billing(24D).\nAutomation of Invoicing and Receipt Applications for Advance Payments(24B, Receivables).\n\n\n### Access Requirements\n\nNo new access requirements.",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37019_1.png",
+                    "alt": "Prepayment Transaction Type"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37019_2.png",
+                    "alt": "A screenshot of the Prepayment Transaction Type field on the Award Billing Details page."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37019_3.png",
+                    "alt": "Receivables Transaction Type Setup"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37019_4.png",
+                    "alt": "Business Unit Set Assignment"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37020.htm#ppm25b-f37020"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37018.htm"
+                },
+                {
+                    "text": "Advanced Project Contract Prepayment Billing",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25a/ppm25a/25A-ppm-wn-f35780.htm"
+                },
+                {
+                    "text": "Project Contract Prepayment Billing",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/24d/ppm24d/24D-ppm-wn-f34616.htm#Key-Resources"
+                },
+                {
+                    "text": "Automation of Invoicing and Receipt Applications for Advance Payments",
+                    "url": "https://docs.oracle.com/pls/topic/lookup?ctx=saas-readiness&id=fins24b-f32330"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:30.996088"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37018.htm",
+            "title": "Sponsored Project Cost Distribution Using Available Award Funding",
+            "content": "# Sponsored Project Cost Distribution Using Available Award Funding\nAutomatically determine the distribution set to apply to a sponsored project cost based on available funds. Sponsored projects with award funding patterns include new options to leverage the budgetary control settings to distribute the costs. This added flexibility reduces the need for project cost transfers and increases the accurate consumption of available funds ensuring contract obligations are met.\nTo accomplish this, the new options on the funding patterns are:\nPerform Funds CheckThis controls whether the funding pattern will use the control budget to check for available funds for the cost being distributed.If this is enabled, two additional options become available.\nThis controls whether the funding pattern will use the control budget to check for available funds for the cost being distributed.\nIf this is enabled, two additional options become available.\nTreat Advisory as AbsoluteTreating advisory as absolute allows for spend that is specific to an award and funding source to continue in an advisory manner, while ensuring that when the funding pattern is used to distribute a cost, it will treat advisory as if it was an absolute control level and apply the next distribution set in the funding pattern.\nTreating advisory as absolute allows for spend that is specific to an award and funding source to continue in an advisory manner, while ensuring that when the funding pattern is used to distribute a cost, it will treat advisory as if it was an absolute control level and apply the next distribution set in the funding pattern.\nProrate Across Distribution SetsProrate across distribution sets will consume as much money as is available in the control budget and distribute the remaining amount to the subsequent distribution set or sets allowing for all the budgeted funds to be consumed in each set.\nProrate across distribution sets will consume as much money as is available in the control budget and distribute the remaining amount to the subsequent distribution set or sets allowing for all the budgeted funds to be consumed in each set.\nFunding patterns are created and maintained by grant administrators and are the core object of the functionality. The funding patterns can be created once the project is funded by one or more award and funding sources.\n\nFunding Pattern Maintenance\n\nFunding Pattern Maintenance\nThe image above illustrates where the new options are visible.\nProject costs captured on requisitions, purchase orders, and accounts payable invoices can be distributed using applicable funding patterns and new funds checking options, by leaving the Contract Number and Funding Source fields blank.\n\nRequisition with Blank Contract and Funding Source\nThe Distribute Project Costs action is used to distribute the costs entered using the funding pattern sets and rules to ensure accurate charging.\n\nRequisition Distributed by Funding Pattern\nGrant accountants and administrators can resolve errors by viewing failed distributions in the Project Cost Distribution Results page in real time with procurement staff or simulating the same action in the Manage Project Costs work area, with the Test Award Distribution functionality. The cause of the error can be viewed and resolved accordingly. In the Manage Project Costs work area, the Test Award Distribution function will also display successful distributions to simulate the results of error resolution. This is only a simulation. The Import Project Costs action continues to be the function that creates costs on a project.\n\nManage Project Costs Simulation\nIf you choose to view the results, the list of costs, funding patterns, distribution sets, and rules used will be presented with a simulated successful or failed distribution.\n\nView Project Cost Distribution Results\nGrant accountants can also manage third party cost integrations that will leverage the funding patterns on costs imported with blank contract / award and funding patterns. If active funding patterns exist, the costs will be distributed using the associated sets and rules and any errors can be managed and tested as illustrated above.\n\nManage Third Party Cost Import\n\nThe business benefit of funding patterns is that they reduce the complexity associated with manually splitting distributions at cost capture and increase the accuracy of meeting the funding requirements associated with awards from both external and internal funding sources. The new âPerform Funds Checkâ options further these benefits by reducing the need for project cost transfers due to incomplete use of available funds.\nHere's the demo of these capabilities:\n\n\n\n\n### Steps to Enable\n\nYou don't need to do anything to enable this feature.\n\n\n### Tips And Considerations\n\nTo use the new functionality in the funding patterns:\nCreate / Duplicate Funding Patterns and set Perform Funds Check to Enabled\nSet Funding Patterns to Active\n\n\n### Key Resources\n\nTo get a comprehensive overview of the funding pattern solution watchProject Cost Distribution Using Award Funding Patterns Readiness Training\nRelated help:Using Grants Management\nUsing Grants Management\nBased on Idea679164from the Project Management Idea Labs on Oracle Cloud Customer Connect\n\n\n### Access Requirements\n\nTo use this feature, you need these privileges and roles:\nPrivilege Name and Code:Manage Award Funding Patterns (GMS_MANAGE_AWARD_FUNDING_PATTERNS_PRIV)Allows users to manage award funding patterns assigned to a sponsored project.Rolled up to Duty Role - Award Management (ORA_GMS_AWARD_MANAGEMENT_DUTY)Distribute Award Project Costs and Quantities (PJC_DISTRIBUTE_AWARD_PROJECT_COSTS_AND_QUANTITIES_PRIV)Allows users to initiate the Award Distribution process, which matches the costs and quantities provided to available award funding patterns, distributes costs as appropriate, and displays the results.Rolled up to Job Roles:Grant ManagementGrants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB)ProcurementBuyer (ORA_PO_BUYER_JOB)Purchase Order Authoring (ORA_PO_SPO_CREATION_DUTY)Category Manager (ORA_PON_CATEGORY_MANAGER_JOB)Procurement Contract Administrator (ORA_PO_PROCUREMENT_CONTRACT_ADMIN_JOB)Advanced Procurement Requester (ORA_POR_ADVANCED_PROCUREMENT_REQUESTER_ABSTRACT)Procurement Preparer (ORA_POR_PROCUREMENT_PREPARER_ABSTRACT)Procurement Requester (ORA_POR_PROCUREMENT_REQUESTER_ABSTRACT )Contingent Worker (ORA_PER_CONTINGENT_WORKER_ABSTRACT)Employee (ORA_PER_EMPLOYEE_ABSTRACT)Requisition Self Service User (ORA_POR_REQUISITION_SELF_SERVICE_USER_DUTY)\nManage Award Funding Patterns (GMS_MANAGE_AWARD_FUNDING_PATTERNS_PRIV)Allows users to manage award funding patterns assigned to a sponsored project.Rolled up to Duty Role - Award Management (ORA_GMS_AWARD_MANAGEMENT_DUTY)\nAllows users to manage award funding patterns assigned to a sponsored project.\nRolled up to Duty Role - Award Management (ORA_GMS_AWARD_MANAGEMENT_DUTY)\nDistribute Award Project Costs and Quantities (PJC_DISTRIBUTE_AWARD_PROJECT_COSTS_AND_QUANTITIES_PRIV)Allows users to initiate the Award Distribution process, which matches the costs and quantities provided to available award funding patterns, distributes costs as appropriate, and displays the results.Rolled up to Job Roles:Grant ManagementGrants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB)ProcurementBuyer (ORA_PO_BUYER_JOB)Purchase Order Authoring (ORA_PO_SPO_CREATION_DUTY)Category Manager (ORA_PON_CATEGORY_MANAGER_JOB)Procurement Contract Administrator (ORA_PO_PROCUREMENT_CONTRACT_ADMIN_JOB)Advanced Procurement Requester (ORA_POR_ADVANCED_PROCUREMENT_REQUESTER_ABSTRACT)Procurement Preparer (ORA_POR_PROCUREMENT_PREPARER_ABSTRACT)Procurement Requester (ORA_POR_PROCUREMENT_REQUESTER_ABSTRACT )Contingent Worker (ORA_PER_CONTINGENT_WORKER_ABSTRACT)Employee (ORA_PER_EMPLOYEE_ABSTRACT)Requisition Self Service User (ORA_POR_REQUISITION_SELF_SERVICE_USER_DUTY)\nAllows users to initiate the Award Distribution process, which matches the costs and quantities provided to available award funding patterns, distributes costs as appropriate, and displays the results.\nRolled up to Job Roles:Grant ManagementGrants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB)ProcurementBuyer (ORA_PO_BUYER_JOB)Purchase Order Authoring (ORA_PO_SPO_CREATION_DUTY)Category Manager (ORA_PON_CATEGORY_MANAGER_JOB)Procurement Contract Administrator (ORA_PO_PROCUREMENT_CONTRACT_ADMIN_JOB)Advanced Procurement Requester (ORA_POR_ADVANCED_PROCUREMENT_REQUESTER_ABSTRACT)Procurement Preparer (ORA_POR_PROCUREMENT_PREPARER_ABSTRACT)Procurement Requester (ORA_POR_PROCUREMENT_REQUESTER_ABSTRACT )Contingent Worker (ORA_PER_CONTINGENT_WORKER_ABSTRACT)Employee (ORA_PER_EMPLOYEE_ABSTRACT)Requisition Self Service User (ORA_POR_REQUISITION_SELF_SERVICE_USER_DUTY)\nGrant ManagementGrants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB)\nGrants Accountant (ORA_PJF_GRANTS_ACCOUNTANT_JOB)\nProcurementBuyer (ORA_PO_BUYER_JOB)Purchase Order Authoring (ORA_PO_SPO_CREATION_DUTY)Category Manager (ORA_PON_CATEGORY_MANAGER_JOB)Procurement Contract Administrator (ORA_PO_PROCUREMENT_CONTRACT_ADMIN_JOB)Advanced Procurement Requester (ORA_POR_ADVANCED_PROCUREMENT_REQUESTER_ABSTRACT)Procurement Preparer (ORA_POR_PROCUREMENT_PREPARER_ABSTRACT)Procurement Requester (ORA_POR_PROCUREMENT_REQUESTER_ABSTRACT )Contingent Worker (ORA_PER_CONTINGENT_WORKER_ABSTRACT)Employee (ORA_PER_EMPLOYEE_ABSTRACT)Requisition Self Service User (ORA_POR_REQUISITION_SELF_SERVICE_USER_DUTY)\nBuyer (ORA_PO_BUYER_JOB)\nPurchase Order Authoring (ORA_PO_SPO_CREATION_DUTY)\nCategory Manager (ORA_PON_CATEGORY_MANAGER_JOB)\nProcurement Contract Administrator (ORA_PO_PROCUREMENT_CONTRACT_ADMIN_JOB)\nAdvanced Procurement Requester (ORA_POR_ADVANCED_PROCUREMENT_REQUESTER_ABSTRACT)\nProcurement Preparer (ORA_POR_PROCUREMENT_PREPARER_ABSTRACT)\nProcurement Requester (ORA_POR_PROCUREMENT_REQUESTER_ABSTRACT )\nContingent Worker (ORA_PER_CONTINGENT_WORKER_ABSTRACT)\nEmployee (ORA_PER_EMPLOYEE_ABSTRACT)\nRequisition Self Service User (ORA_POR_REQUISITION_SELF_SERVICE_USER_DUTY)",
+            "tables": [],
+            "images": [
+                {
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/resourcesRedwood/images/ideas_lab.png",
+                    "alt": "One of your ideas has been delivered from your suggestion."
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37018_1.png",
+                    "alt": "Funding Pattern Search"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37018_2.png",
+                    "alt": "Edit Funding Pattern"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37018_3.png",
+                    "alt": "Requisition with Blank Contract and Funding Source"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37018_4.png",
+                    "alt": "Requisition Distributed by Funding Pattern"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37018_5.png",
+                    "alt": "Manage Project Costs Simulation"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37018_6.png",
+                    "alt": "View Project Cost Distribution Results"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37018_7.png",
+                    "alt": "Manage Third Party Cost Import"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37019.htm#ppm25b-f37019"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37022.htm"
+                },
+                {
+                    "text": "Project Cost Distribution Using Award Funding Patterns Readiness Training",
+                    "url": "https://download.oracle.com/ocomdocs/global/apps_23A/ppm/Awards_Distribution/Awards_Distribution.mp4"
+                },
+                {
+                    "text": "679164",
+                    "url": "https://community.oracle.com/customerconnect/discussion/679164"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:32.048886"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37022.htm",
+            "title": "Variable Weekly Schedules for Project Resource Assignments",
+            "content": "# Variable Weekly Schedules for Project Resource Assignments\nDefine detailed weekly schedules when directly assigning a labor resource to a project. Resource managers set precise weekly allocations without the need for a formal resource request and allocate team members based on real-time project demands. Adjust multiple resource assignment schedule hours or switch between variable weekly hours and other scheduling methods to reflect the latest schedule demands. Replace resources on variable weekly hour assignments to address availability and workload balance.\n\nCreate Assignments for Variable Weekly Hours\n\nAdjust Multiple Assignments\n\nReplace Resources Scheduled with Variable Weekly Hours\n\nThese are the business benefits of this feature:\nReduced Administrative Overheadâ Directly assigning resources to variable weekly assignments eliminates the need for formal resource requests and streamlines the assignment process.\nIncreased Agilityâ Efficient adjustments to assignment schedules enables quick response to changing demands.\nImproved Project Efficiencyâ Aligns resource planning with project schedules, minimizing downtime and delays.\nFaster Response to Availability Changesâ Quickly replacing resources avoids disruptions and keeps projects on track.\n\n\n### Steps to Enable\n\nYou don't need to do anything to enable this feature.\n\n\n### Tips And Considerations\n\nAdditional capabilities under consideration for upcoming updates include:Creating and adjusting variable weekly assignments in the Manage Resource Schedules Gantt chart.Mass creation of direct assignments for a project with variable weekly hours schedules.Plan resources with variable weekly schedules in project management.\nCreating and adjusting variable weekly assignments in the Manage Resource Schedules Gantt chart.\nMass creation of direct assignments for a project with variable weekly hours schedules.\nPlan resources with variable weekly schedules in project management.\nWhen adjusting an assignment with variable weekly hours, the assignment hours will shift based on the changes that are made to the assignment start and finish dates and duration:\nStart Date\nEarlier\nShift the existing weekly hours based on the new start date.\nShift the existing weekly hours based on the new start date.\nShift the existing weekly hours earlier based on the new start date. For additional weeks in the longer duration, set the weekly hours equal to the default weekly hours value.\nRemove hours for dates no longer part of the assignment. Keep existing weekly hours that were set on remaining weeks of assignment.\nRemove hours for dates no longer part of the assignment. Keep existing daily hours that were set on remaining dates of assignment.\nRemove hours for dates no longer part of the assignment. Keep existing daily hours that were set on remaining dates of assignment.\nShift existing hours to start at new start date, add the default weekly hours for each additional week to the end of the assignment for additional weeks added to the duration.\nShift existing hours starting at the new start date. Remove hours at the end for weeks no longer within the new duration.\n\n\n### Key Resources\n\nThis feature extends the variable weekly hours scheduling capabilities, first introduced in 25A asVariable Weekly Resource Schedules for Project Resource Requests, to the creation of direct assignments in Project Resource Management.\n\n\n### Access Requirements\n\nNo new access requirements.\n\n\n| Start Date | Finish Date | Duration | Assignment Hours Change |\n|---|---|---|---|\n| Earlier | Earlier | Same | Shift the existing weekly hours based on the new start date. |\n| Later | Later | Same | Shift the existing weekly hours based on the new start date. |\n| Earlier | No change | Longer | Shift the existing weekly hours earlier based on the new start date. For additional weeks in the longer duration, set the weekly hours equal to the default weekly hours value. |\n| Later | No change | Shorter | Remove hours for dates no longer part of the assignment. Keep existing weekly hours that were set on remaining weeks of assignment. |\n| No change | Earlier | Shorter | Remove hours for dates no longer part of the assignment. Keep existing daily hours that were set on remaining dates of assignment. |\n| No change | Later | Longer | Remove hours for dates no longer part of the assignment. Keep existing daily hours that were set on remaining dates of assignment. |\n| Earlier | Later | Longer | Shift existing hours to start at new start date, add the default weekly hours for each additional week to the end of the assignment for additional weeks added to the duration. |\n| Later | Earlier | Shorter | Shift existing hours starting at the new start date. Remove hours at the end for weeks no longer within the new duration. |\n| Later | Later | Shorter | Shift existing hours starting at the new start date. Remove hours at the end for weeks no longer within the new duration. |",
+            "tables": [
+                "| Start Date | Finish Date | Duration | Assignment Hours Change |\n|---|---|---|---|\n| Earlier | Earlier | Same | Shift the existing weekly hours based on the new start date. |\n| Later | Later | Same | Shift the existing weekly hours based on the new start date. |\n| Earlier | No change | Longer | Shift the existing weekly hours earlier based on the new start date. For additional weeks in the longer duration, set the weekly hours equal to the default weekly hours value. |\n| Later | No change | Shorter | Remove hours for dates no longer part of the assignment. Keep existing weekly hours that were set on remaining weeks of assignment. |\n| No change | Earlier | Shorter | Remove hours for dates no longer part of the assignment. Keep existing daily hours that were set on remaining dates of assignment. |\n| No change | Later | Longer | Remove hours for dates no longer part of the assignment. Keep existing daily hours that were set on remaining dates of assignment. |\n| Earlier | Later | Longer | Shift existing hours to start at new start date, add the default weekly hours for each additional week to the end of the assignment for additional weeks added to the duration. |\n| Later | Earlier | Shorter | Shift existing hours starting at the new start date. Remove hours at the end for weeks no longer within the new duration. |\n| Later | Later | Shorter | Shift existing hours starting at the new start date. Remove hours at the end for weeks no longer within the new duration. |\n"
+            ],
+            "images": [
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37022_1.png",
+                    "alt": "Create Assignments for Variable Weekly Hours"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37022_2.png",
+                    "alt": "Adjust Multiple Assignments"
+                },
+                {
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/images/F37022_3.png",
+                    "alt": "Replace Resources Scheduled with Variable Weekly Hours"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37018.htm#ppm25b-f37018"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64468.htm"
+                },
+                {
+                    "text": "Variable Weekly Resource Schedules for Project Resource Requests",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25a/ppm25a/25A-ppm-wn-f35787.htm"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:33.103200"
+        },
+        {
+            "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64468.htm",
+            "title": "IMPORTANT Actions and Considerations",
+            "content": "# IMPORTANT Actions and Considerations\nFrom time to time, Oracle replaces existing Cloud service features with new features or removes existing features. When a feature is replaced, the older version may be removed immediately or at a future time. As a best practice, you should use the newer version of a replaced feature as soon as the newer version is available.\nNOTE:23B prevents new use for customers not currently using EPS. Existing use of EPS is not impacted.\nEnterprise Project Structures (EPS)\nProgram Management\nWe recommend moving to program management for reporting needs.\nProgram Management(22B)\nProgram Management(22B)\nProgram Management Communication(22D)\nProgram Management Communication(22D)\nProgram Action Plans and Issues(23A)\nProgram Action Plans and Issues(23A)\nFor related security requirements to access projects that currently leverage the EPS, consider the following two security enhancements:\nExpanded Project Access Configuration for the Project Management Work Area(21D)\nExpanded Project Access Configuration for the Project Management Work Area(21D)\nExpanded View Project Plan Access for Non-Team Members(22A)\nExpanded View Project Plan Access for Non-Team Members(22A)\nRemember to review all upcoming opt in changes in the Opt In Expiration section.\nKNOWN ISSUES / MAINTENANCE PACK SPREADSHEETS\nOracle publishes a Known Issues document for every Update to make customers are aware of potential problems they could run into, and the document provides workarounds if they are available.\nOracle also publishes Maintenance Pack and Statutory Maintenance Pack documentation of bugs that are fixed in the monthly or statutory patching.\nTo review these documents, you must have access to My Oracle Support:\nOracle Fusion Cloud Project Management Known Issues and Maintenance Packs (Doc ID 1545504.1)\nDEPRECATION OF OLDER DIGITAL ASSISTANT SKILL VERSIONS\nThe Digital Assistant and its skills continuously receive updates as they get smarter and provide enhanced conversational experiences. Check for updated versions every release in the Skill Store. Versions stop working when the underlying platform version becomes inactive, at the longest 2 years after release.\nWe recommend that you stay up to date and use the most current skills.\n\n| Product | Removed Feature | Target Removal | Replacement Feature | Replaced In | Additional Information |\n|---|---|---|---|---|---|\n| Project Management | NOTE:23B prevents new use for customers not currently using EPS. Existing use of EPS is not impacted.Enterprise Project Structures (EPS) | 23B | Program Management | 22B | We recommend moving to program management for reporting needs.Program Management(22B)Program Management Communication(22D)Program Action Plans and Issues(23A)For related security requirements to access projects that currently leverage the EPS, consider the following two security enhancements:Expanded Project Access Configuration for the Project Management Work Area(21D)Expanded View Project Plan Access for Non-Team Members(22A) |",
+            "tables": [
+                "| Product | Removed Feature | Target Removal | Replacement Feature | Replaced In | Additional Information |\n|---|---|---|---|---|---|\n| Project Management | NOTE:23B prevents new use for customers not currently using EPS. Existing use of EPS is not impacted.Enterprise Project Structures (EPS) | 23B | Program Management | 22B | We recommend moving to program management for reporting needs.Program Management(22B)Program Management Communication(22D)Program Action Plans and Issues(23A)For related security requirements to access projects that currently leverage the EPS, consider the following two security enhancements:Expanded Project Access Configuration for the Project Management Work Area(21D)Expanded View Project Plan Access for Non-Team Members(22A) |\n"
+            ],
+            "images": [],
+            "links": [
+                {
+                    "text": "Previous",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-f37022.htm#ppm25b-f37022"
+                },
+                {
+                    "text": "Next",
+                    "url": "https://docs.oracle.com/en/cloud/saas/readiness/erp/25b/ppm25b/25B-ppm-wn-t64468.htm"
+                },
+                {
+                    "text": "Enterprise Project Structures (EPS)",
+                    "url": "https://docs.oracle.com/en/cloud/saas/project-management/22b/oapem/enterprise-project-structures.html#s20045631"
+                },
+                {
+                    "text": "Program Management",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/nfs/ppm/releases/22B/22B-ppm-nfs.htm#F22256"
+                },
+                {
+                    "text": "Program Management",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/22B/22B-ppm-wn.htm#F22256"
+                },
+                {
+                    "text": "Program Management Communication",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/22D/22D-ppm-wn.htm#F24987"
+                },
+                {
+                    "text": "Program Action Plans and Issues",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/ppm/releases/23A/23A-ppm-wn.htm#F26160"
+                },
+                {
+                    "text": "Expanded Project Access Configuration for the Project Management Work Area",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/nfs/ppm/releases/21D/21D-ppm-nfs.htm#F20170"
+                },
+                {
+                    "text": "Expanded View Project Plan Access for Non-Team Members",
+                    "url": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/nfs/ppm/releases/22A/22A-ppm-nfs.htm#F21283"
+                }
+            ],
+            "timestamp": "2025-06-12T08:15:34.157139"
+        }
+    ]
+}
